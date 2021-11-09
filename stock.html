@@ -1,0 +1,942 @@
+<!--
+
+=========================================================
+* 
+=========================================================
+
+* Copyright 2020 Ideatalayi Groups (http://www.ideatalayi.com)
+* Licensed under MIT 
+
+* Coded by Ideatalayi.com
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" xmlns="http://www.w3.org/1999/xhtml">
+<!-- Static assets - Used to load the Favicon -->
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="mehrdad seyfi, Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+  <meta name="generator" content="Jekyll v4.1.1" />
+  <title>
+     فجهان 
+  </title>
+  <!--<link rel="canonical" href="http://docs.bootstrapper.ir/docs/4.5/examples/carousel/"/> -->
+
+  <!-- Favicon - loaded as static -->
+  
+  <link rel="shortcut icon" type="image/png" href="https://webgold.ir/static/favicon.ico" />
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://webgold.ir/static/assets/dist/css/bootstrap-rtl.css" rel="stylesheet" />
+  <!-- font-awesome CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+  <link href="https://webgold.ir/static/app/css/index.css" rel="stylesheet" />
+  
+  
+
+  <!-- Custom styles for this template -->
+  <!-- Specific CSS goes HERE -->
+  
+<!-- This line was added to run the jQuery script -->
+
+
+<link href="https://webgold.ir/static/stocks/css/timeline.css" rel="stylesheet" />
+<link href="https://webgold.ir/static/stocks/css/namadbar.css" rel="stylesheet" />
+
+  <meta name="google-site-verification" content="27p_bpRAcVHy2f_vvJG9qvzvUheO99Efmo8Pkxroz9c" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR4X2XV');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body class="">
+
+
+  <div class="main-content">
+
+    <style>
+.topright {
+  top:10px;  
+  left: 20px;
+  font-size: 12px;
+  width:300px;
+  visibility:hidden;
+}
+.topright tbody {
+    display:block; 
+    height:200px;
+    overflow-y:scroll;
+}
+.topright tr {
+    display:block;
+} 
+</style>
+
+<header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a class="navbar-brand" href="#">درگاه طلایی</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="https://webgold.ir/">صفحه اصلی<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="http://new.tsetmc.com/treemap">نمای بازار</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">سهام برگزیده</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">اطلاعات بازار</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">اخبار</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">ویکی گلد</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">درباره ما</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">تماس با ما</a>
+                </li>
+                <li class="nav-item">
+                    
+                    <a class="nav-item nav-link" href="https://webgold.ir/accounts/register/">ثبت نام</a>
+                    </li> 
+                    <li class="nav-item">
+                    <a class="nav-item nav-link" href="https://webgold.ir/accounts/login/">ورود</a>                    
+                    
+                </li>                
+                
+                <!-- 
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </li>
+            -->
+            </ul>
+            <form class="form-inline mt-2 mt-md-0" method="GET" action="/search/">
+                <input id="searchInput" name="q" class="form-control ml-sm-2" type="text" onkeyup="searchFunction()" placeholder="جستجو..." aria-label="جستجو">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">جستجو</button>
+            </form>
+
+
+        </div>
+
+          
+
+
+
+<div id="searchTable" class="position-absolute topright">
+<table id="myTable" 
+class="table table-light table-sm table-hover"
+data-url="/static/app/js/data_search.json" 
+data-toggle="table">
+<thead>
+<tr class="header">
+<th data-field="name">نتیجه جستجو :</th>
+</tr>
+</thead>
+</table>
+</div>
+
+
+    </nav>
+    
+</header>
+
+
+
+
+    
+
+
+    
+<input type="hidden" name="csrfmiddlewaretoken" value="RmPfsK13w9xqBDgqahOGHe7sE7Tuzmbm3nIYHnHOl74DMMeEReO2roPQi3Z3woMV">
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="container-fluid bg-3 text-center">
+				<h4><i class="fa fa-circle" style="color:orange" aria-hidden="true"></i>
+					نماد فجهان <span class="webgold-widget-up-i"> <i class="fa fa-clock-o"
+							aria-hidden="true"></i></span>
+				</h4>
+
+				<!-- Container Time-Line -->
+				<div id="readings">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-xl-10 col-12">
+								<div class="timeline timeline-line-solid">
+									<span class="timeline-label">
+										<span class="label" id="time"></span>
+									</span>
+
+									<div id="progress">
+										<figure>
+											<img src="https://webgold.ir/static/stocks/img/progress/progress_bar.gif" width="50px">
+										</figure>
+									</div>
+
+									
+
+
+<div id="contentright" class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow">
+            <div class="widget-body">
+                <table class="table table-hover table-condensed table-responsive" style="display:table">
+                    
+                    <tr>
+                        <td colspan="2"> <span id="sign_pmoney">خروج</span> پول حقیقی: <span
+                                id="pmoney"
+                                class="text-danger">20.19</span> <span
+                                id="pmoney_cur">میلیارد</span> تومان</td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td><span dir="ltr"><span class="text-success">597</span>
+                                :EPS</span></td>
+                        <td><span dir="ltr"><span
+                                    class="text-success">9.99</span>
+                                :P/E</span></td>
+                    </tr>
+                    
+                    <tr>
+                        <td colspan="2">قدرت خریدار حقیقی به فروشنده: <span id="buyer_power"
+                                class="text-success">1.86</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>خریدار</td>
+                        <td>فروشنده</td>
+                    </tr>
+                    <tr>
+                        <td id="buy_counti">1,121</td>
+                        <td id="sell_cointi">8,731</td>
+                    </tr>
+                    <tr>
+                        <td id="buy_countn">3</td>
+                        <td id="sell_countn">9</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="contentleft" class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow">
+            <div class="widget-header d-flex align-items-center">
+                <div class="user-image">
+                    <div class="container">
+                        <img class="rounded-circle" src="https://webgold.ir/static/stocks/img/avatar/online.png" alt="online">
+                        <div id="update_time" class="centered"></div>
+                    </div>
+                </div>
+                <div class="d-flex flex-column ">
+                    <div class="title">
+                        <span class="text-primary">مجتمع جهان فولاد سیرجان (فجهان)</span>
+                    </div>
+                </div>
+            </div>
+            <div class="widget-body">
+                <div class="content-img">
+                    <table class="table table-hover">
+                        <tr>
+                            <td>آخرین قیمت</td>
+                            <td id="pl">5,978</td>
+                            <td><span id="plp" class="" text-%s""></span></td>
+                        </tr>
+                        <tr>
+                            <td>قیمت پایانی</td>
+                            <td id="pc">5,966</td>
+                            <td><span id="pcp" class="" text-%""></span></td>
+                        </tr>
+                        
+                        <tr id="avrow">
+                            <td>قیمت میانگین</td>
+                            <td id="av">5,965</td>
+                            <td></td>
+                        </tr>
+                        
+                    </table>
+                </div>
+
+
+                <div id="namad-bar">
+                    <div class="pg-line">
+
+                        <div id="tmin-namad" class="pg-abs pg-min">5,678</div>
+
+                        <div id="py-namad" class="pg-abs pg-midlle">5,976</div>
+
+                        <div id="tmax-namad" class="pg-abs pg-max">6,274</div>
+
+                        <div id="pli-namad" class="pg-arrow pg-now" style="left: 50%;">
+                            <div class="tooltip top">
+                                <div class="tooltip-arrow"></div>
+                                <div class="tooltip-inner">
+                                    <span id="pl-namad" class="pg-last">5,978</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="pci-namad" class="pg-arrow pg-closing1" style="left: 50%;">
+                            <div class="tooltip bottom">
+                                <div class="tooltip-arrow"></div>
+                                <div class="tooltip-inner">
+                                    <span id="pc-namad" class="pg-closing">5,966</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="pg-1">
+                            <div class="pg-bar-1" style="width: 50%;"></div>
+                        </div>
+
+                        <div id="pmaxi-namad" class="pg-thick thick-right" style="width: 100%;">
+                            <div class="endpoint">
+                                <div class="tooltip top">
+                                    <div class="tooltip-arrow"></div>
+                                    <div class="tooltip-inner">
+                                        <span class="pg-right">
+                                            <span id="pmax-namad" class="pg-right-val">6,000</span>
+                                            <span class="pg-right-percent" style="color: rgb(20, 202, 26);">
+                                                (%<span id="pmaxp-namad" class="pg-right-percent-val"></span>)
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="pmini-namad" class="pg-thick thick-left" style="width: 0%;">
+                            <div class="endpoint">
+                                <div class="tooltip top">
+                                    <div class="tooltip-arrow"></div>
+                                    <div class="tooltip-inner">
+                                        <span class="pg-left">
+                                            <span id="pmin-namad" class="pg-left-val">5,850</span>
+                                            <span class="pg-left-percent" style="color: rgb(255, 113, 106);">
+                                                (%<span id="pminp-namad" class="pg-left-percent-val"></span>)
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="widget-footer d-flex align-items-center">
+                <div class="col no-padding d-flex justify-content-mid">
+                    <div class="meta" style="font-size:14px;">
+                        <ul class="nav justify-content-end">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                                    aria-haspopup="true" aria-expanded="false">تحلیل</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" Title="rahavard365.com"
+                                        href="https://rahavard365.com/asset/16962/فجهان"
+                                        target="_blank">
+                                        <i class="fa fa-bar-chart" style="font-size:18px;color:gray"></i><span
+                                            class="text-dark">رهاورد۳۶۵</span>
+                                    </a>
+                                    <a class="dropdown-item" Title="nahayatnegar.com"
+                                        href="http://tradersarena.ir/45507655586782998" target="_blank">
+                                        <i class="fa fa-bar-chart" style="font-size:18px;color:gray"></i><span
+                                            class="text-dark">تریدرزآرنا</span>
+                                    </a>
+                                    <a class="dropdown-item" Title="tablokhani.com"
+                                        href="http://www.tablokhani.com/Namad/45507655586782998/فجهان"
+                                        target="_blank">
+                                        <i class="fa fa-bar-chart" style="font-size:18px;color:gray"></i><span
+                                            class="text-dark">تابلوخوانی</span>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item"
+                                        href="http://dev.tsetmc.com/Loader.aspx?ParTree=151323&i=45507655586782998"
+                                        target="_blank">
+                                        <i class="fa fa-line-chart" style="font-size:18px;color:green"></i><span
+                                            class="text-dark">نمودار</span>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" Title="codal.ir"
+                                        href="https://codal.ir/ReportList.aspx?search&Symbol=فجهان"
+                                        target="_blank">
+                                        <i class="fa fa-newspaper-o" style="font-size:18px;color:gray"></i><span
+                                            class="text-dark">کدال</span>
+                                    </a>
+                                    <a class="dropdown-item" Title="tsetmc.com"
+                                        href="http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=45507655586782998"
+                                        target="_blank">
+                                        <i class="fa fa-check-square-o" style="font-size:18px;color:blue"></i><span
+                                            class="text-dark">TSETMC</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" Title="Live view: 1" href="#">
+                                    <i class="fa fa-eye" style="font-size:18px;color:red"></i><span id="state"
+                                        class="numb"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <img id="bull-icon" style="opacity:0.1;" height='38px' src='/static/stocks/img/icon/bull.png' />
+                                <img id="bear-icon" style="opacity:0.1;" height='38px' src='/static/stocks/img/icon/bear.png' />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+									<span id="content_filter">
+										<figure>
+											<img src="https://webgold.ir/static/stocks/img/progress/progress_bar.gif" width="50px">
+										</figure>
+									</span>
+									
+
+<span class="timeline-label"><span class="label">1400-08-17 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        24,204,641
+                        سهام
+                        
+                        به ارزش
+                        144,404,888,206
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,392,116,991
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-left">
+            01:02
+        </div>
+    </div>
+</div>
+
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>BFMصندوق سرمایه گذاری.ا.ب.امیدایرانیان</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        500,000
+                        سهام
+                        
+                        به ارزش
+                        2,983,000,000
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        2,027,321,984
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-right">
+            01:02
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-16 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        20,548,836
+                        سهام
+                        
+                        به ارزش
+                        122,799,843,936
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,367,912,350
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-left">
+            01:02
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-15 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/28'>فیلتر
+                        <strong>حجم معاملات‌ کمتر از حجم مبنا</strong>
+                    </a>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-right">
+            09:57
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-13 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        17,198,124
+                        سهام
+                        
+                        <BR/>
+                        از مجموع
+                        1,347,363,514
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-left">
+            23:23
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-12 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        16,338,118
+                        سهام
+                        
+                        به ارزش
+                        98,322,794,124
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,330,165,390
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-right">
+            23:23
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-11 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        14,748,042
+                        سهام
+                        
+                        به ارزش
+                        87,441,141,018
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,313,827,272
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-left">
+            23:48
+        </div>
+    </div>
+</div>
+
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/28'>فیلتر
+                        <strong>حجم معاملات‌ کمتر از حجم مبنا</strong>
+                    </a>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-right">
+            10:28
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-10 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        9,901,647
+                        سهام
+                        
+                        به ارزش
+                        58,390,012,359
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,299,079,230
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-left">
+            23:49
+        </div>
+    </div>
+</div>
+
+<span class="timeline-label"><span class="label">1400-08-09 </span></span>
+
+<div class="timeline-item">
+    <div class="timeline-point timeline-point"></div>
+    <div class="timeline-event">
+        <div class="widget has-shadow"> 
+                <div class="alert alert-primary" role="alert">
+                    <a href='/stock/filter/30'>فیلتر
+                        <strong>خرید سهامدار عمده</strong>
+                    </a>
+                    
+                        <hr>
+                        <p>شرکت سرمایه گذاری وتوسعه گل گهر-سهامی خاص-</p>
+                    <small data-placement="bottom">
+                        
+                        خرید
+                        
+                        90,666,304
+                        سهام
+                        
+                        به ارزش
+                        523,960,570,816
+                        ریال
+                        
+                        <BR/>
+                        از مجموع
+                        1,289,177,583
+                        سهام
+                    </small>
+                    
+                    
+                </div>
+        </div>
+        <div class="time-right">
+            22:02
+        </div>
+    </div>
+</div>
+
+
+									<div id="datafilter1"></div>
+									<span class="timeline-label">
+										<a href="?more=2"><span class="label bg-primary">بیشتر</span></a>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Container (Time-Line) -->
+
+				<div class="widgets has-icon">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <!-- FOOTER -->
+<footer>
+	<div class="footerBox">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="row mx-0 ">
+					<div class="col-lg-3">
+						<p>
+							درگاه طلایی، شبکه هوشمند
+							آموزش و تحلیل سهام است که تلاش دارد با ارائه خدمات مناسب، بهترین و مناسب ترین انتخاب را برای سرمایه
+							گذاران آسان
+							کند.
+						</p>
+						<img src="https://webgold.ir/static/app/img/logo/logo.png" alt="درگاه طلایی" loading="lazy"
+							class="img-thumbnail rounded mx-auto d-block">
+						<div class="d-flex justify-content-center">
+							<a referrerpolicy="origin" target="_blank"
+								href="https://trustseal.enamad.ir/?id=7535&amp;Code=VL1FAhdNdvFtAWIPylNY"><img
+									class="mx-auto mw-100 h-100" referrerpolicy="origin"
+									src="https://Trustseal.eNamad.ir/logo.aspx?id=7535&amp;Code=VL1FAhdNdvFtAWIPylNY"
+									alt="" style="cursor:pointer" id="VL1FAhdNdvFtAWIPylNY"></a>
+							<a referrerpolicy="origin" target="_blank"
+								href="https://logo.samandehi.ir/Verify.aspx?id=264&amp;p=uiwkgvkaaods">
+								<img class="mx-auto mw-100 h-100" referrerpolicy="origin" id='nbqefukzwlao'
+									style='cursor:pointer' alt='logo-samandehi'
+									src='https://logo.samandehi.ir/logo.aspx?id=264&p=odrfwlbqshwl' />
+							</a>
+						</div>
+					</div>
+					<div class="col-12 col-md-3 font_14">
+						<div class="font-weight-bold pb-2">لینک ها</div>
+						<ul class="p-0 font_13">
+							<li><a target="_blank" class="grey-text" href="http://www.tsetmc.com">مدیریت فناوری بورس تهران</a></li>
+							<li><a target="_blank" class="grey-text" href="https://www.tse.ir">بورس اوراق بهادار تهران</a></li>
+							<li><a target="_blank" class="grey-text" href="https://www.ifb.ir">فرابورس ایران</a></li>
+							<li><a target="_blank" class="grey-text" href="http://www.ime.co.ir">بورس کالای ایران</a></li>
+							<li><a target="_blank" class="grey-text" href="https://www.sena.ir">پایگاه خبری بازار سرمایه ایران</a></li>
+							<li><a target="_blank" class="grey-text" href="https://www.codal.ir">سیستم جامع اطلاع رسانی ناشران</a></li>
+							<li><a target="_blank" class="grey-text" href="https://www.sejam.ir">سامانه جامع اطلاعات مشتریان</a></li>
+						</ul>
+					</div>
+					<div class="col-12 col-md-3 font_14">
+						<div class="font-weight-bold pb-2">مقالات</div>
+						<ul class="p-0 font_13">
+							<li><a class="grey-text" href="">چقدر
+									در بورس سرمایه گذاری کنیم؟</a></li>
+							<li><a class="grey-text" href="">استراتژی
+									معاملاتی</a></li>
+
+							<li><a class="grey-text" href="">چرا
+									سود نمی کنیم؟</a></li>
+
+							<li><a class="grey-text" href="">چرا
+									در بورس صبر نمی کنیم؟</a></li>
+
+							<li><a class="grey-text" href="">استراژی
+									خروج و بهترین روش شناسایی سود در بورس</a></li>
+
+						</ul>
+					</div>
+					<div class="col-12 col-md-3 font_14">
+						<div class="font-weight-bold pb-2">اطلاعات بازار </div>
+						<ul class="p-0 font_13">
+							<li>
+								<a href="" class="grey-text">نقشه بازار</a>
+							</li>
+							<li><a href="" class="grey-text">دیده بان</a></li>
+							<li>
+								<a href="" class="grey-text">اطلاعیه های کدال</a>
+							</li>
+							<li><a href="" class="grey-text">پیام ناظر</a></li>
+							<li><a href="https://webgold.ir/stock/technicals" class="grey-text">تکنیکال</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</footer>
+<footer class="container">
+	<div class="copyright">
+		<p class="float-left">
+			<a href="#">برو به بالا <i class="fa fa-arrow-circle-up" style="font-size:15px;color:green"></i></a>
+		</p>
+		
+		<p style="text-align:right;">Copyright &copy; 2017-2021 <a href="https://webgold.ir">webgold.ir</a></p>
+
+		<p class="float-right">
+			استفاده از مطالب با ذکر منبع بلامانع است. کلیه حقوق این سایت متعلق به وبسایت درگاه طلایی می‌باشد.
+		</p>
+	</div>
+</footer>
+  </div>
+
+      
+    
+    
+
+    
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+    
+    <script src="https://webgold.ir/static/assets/dist/js/bootstrap.bundle.js"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"></script>
+    <script src="https://webgold.ir/static/app/js/search.js"></script>
+
+
+  <!-- Specific JS goes HERE --> 
+  
+<!-- The following script updates or refreshes the mysqli data but leaves the rest of the document alone.-->
+<!-- The actual data is updated from the mysqli database on the "update.php" file. -->
+
+<script>
+	var inscode = '45507655586782998';
+	var filter = '1';
+	var tmin = '5678.00';
+	var tmax = '6274.00';
+</script>
+<script src="https://webgold.ir/static/stocks/js/showtime.js"></script>
+<script src="https://webgold.ir/static/stocks/js/script.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR4X2XV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
+
+</html>
