@@ -1,0 +1,3 @@
+sc Create myserviceWebgold binPath=C:\python\mysqltest\loop.bat
+sc.exe delete myserviceWebgold
+sc start myserviceWebgold
