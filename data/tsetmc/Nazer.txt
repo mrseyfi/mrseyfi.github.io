@@ -5,7 +5,7 @@
 	General Error Detected
 </title></head>
 <body>
-    <form method="post" action="./GeneralError.aspx" id="form1">
+    <form method="post" action="./GeneralError.aspx?aspxerrorpath=%2fLoader.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGTf8IZiPIETGQBgz4klKGlKRC+hCw+my3PRpEfo+93vPw==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="08A9DA7C" />
