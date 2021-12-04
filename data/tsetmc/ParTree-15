@@ -1,4 +1,4 @@
-<!doctype html><html><head><title>.:TSETMC:. :: شرکت مدیریت فناوری بورس تهران</title><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63076930-1"></script><script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-63076930-1');</script><script>var LongRunnigPagesSite='http://cdn8.tsetmc.com';function ens(ty,sv){var lv=localStorage.getItem("v_"+ty);var t;if (lv==null || lv!=sv){var oX=new XMLHttpRequest();oX.open('GET', 'tsev2/res/loader.aspx?t='+ty+'&_'+sv,false);oX.send(null);t=oX.responseText;if(t[t.length-1]!=';') return;localStorage.setItem("v_"+ty,sv);localStorage.setItem("t_"+ty,t)}else{t=localStorage.getItem("t_"+ty)}if (ty=='s'){document.write("<style>"+t+"</style>")}else{var h=document.getElementsByTagName('HEAD').item(0);var s=document.createElement("script");s.defer=true;s.text=t;h.appendChild(s)}}var version='512';ens('j',version); ens('s',version);  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })</script></head><body><div style="display:none">PSB is being developed by Pooya Paridel.</div><div id="FastView" class="slideTop"></div><div id="TopBar"><div id="company"><div id="company_logo"></div><div id="company_text">شركت مديريت فناوري بورس تهران<br/> Tehran Securities Exchange Technology Management Co</div></div><div id="menu_btns"></div><script>ShowMenuIcon(1)</script></div><div class="MainContainer"><form method="post" action="./Loader.aspx?ParTree=15" id="form1">
+<!doctype html><html><head><title>.:TSETMC:. :: شرکت مدیریت فناوری بورس تهران</title><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63076930-1"></script><script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-63076930-1');</script><script>var LongRunnigPagesSite='http://cdn7.tsetmc.com';function ens(ty,sv){var lv=localStorage.getItem("v_"+ty);var t;if (lv==null || lv!=sv){var oX=new XMLHttpRequest();oX.open('GET', 'tsev2/res/loader.aspx?t='+ty+'&_'+sv,false);oX.send(null);t=oX.responseText;if(t[t.length-1]!=';') return;localStorage.setItem("v_"+ty,sv);localStorage.setItem("t_"+ty,t)}else{t=localStorage.getItem("t_"+ty)}if (ty=='s'){document.write("<style>"+t+"</style>")}else{var h=document.getElementsByTagName('HEAD').item(0);var s=document.createElement("script");s.defer=true;s.text=t;h.appendChild(s)}}var version='512';ens('j',version); ens('s',version);  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })</script></head><body><div style="display:none">PSB is being developed by Pooya Paridel.</div><div id="FastView" class="slideTop"></div><div id="TopBar"><div id="company"><div id="company_logo"></div><div id="company_text">شركت مديريت فناوري بورس تهران<br/> Tehran Securities Exchange Technology Management Co</div></div><div id="menu_btns"></div><script>ShowMenuIcon(1)</script></div><div class="MainContainer"><form method="post" action="./Loader.aspx?ParTree=15" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
 </div>
@@ -23,35 +23,35 @@
                         <tbody>
                             <tr>
                                 <td>وضعیت بازار</td>
-                                <td>بسته&nbsp;<span class='RealServerTime'><!--RealServerTime--></span></td>
+                                <td>باز&nbsp;<span class='RealServerTime'><!--RealServerTime--></span></td>
                             </tr>
                             <tr>
                                 <td>شاخص کل</td>
-                                <td>1,334,734.72 <div class='mn'>(5337.51)</div></td>
+                                <td>1,333,869.09 <div class='mn'>(6203.19)</div></td>
                             </tr>
                             <tr>
                                 <td>شاخص كل (هم وزن)</td>
-                                <td>362,908.32 <div class='mn'>(4652.59)</div></td>
+                                <td>363,044.15 <div class='mn'>(4516.96)</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار</td>
-                                <td><div class='ltr' title="53,354,220,861,426,767">53,354,220.861 B</div></td>
+                                <td><div class='ltr' title="53,338,729,910,031,299">53,338,729.910 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td>00/9/13 12:29:53</td>
+                                <td>00/9/13 12:23:58</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td>377,640</td>
+                                <td>355,750</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td><div class='ltr' title="29,453,096,844,266">29,453.097 B</div></td>
+                                <td><div class='ltr' title="27,431,456,737,697">27,431.457 B</div></td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td><div class='ltr' title="4,226,146,015">4.226 B</div></td>
+                                <td><div class='ltr' title="4,017,421,437">4.017 B</div></td>
                             </tr>
                         </tbody>
                     </table>
@@ -129,41 +129,28 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=2400322364771558">شستا - سرمايه گذاري تامين اجتماعي</a></td>
-                                <td>10,850</td>
-                                <td><div class='mn'>(0.55)</div></td>
-                                <td>10,970</td>
-                                <td><div class='pn'>0.55</div></td>
+                                <td>10,840</td>
+                                <td><div class='mn'>(0.64)</div></td>
+                                <td>10,950</td>
+                                <td><div class='pn'>0.37</div></td>
                                 <td>10,590</td>
                                 <td>11,150</td>
-                                <td>11,865</td>
-                                <td><div class='ltr' title="63,851,829">63.852 M</div></td>
-                                <td><div class='ltr' title="692,917,204,420">692.917 B</div></td>
+                                <td>11,135</td>
+                                <td><div class='ltr' title="59,825,240">59.825 M</div></td>
+                                <td><div class='ltr' title="648,677,548,920">648.678 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=37284308569715577">فسبزوار - پارس فولاد سبزوار</a></td>
                                 <td>33,690</td>
                                 <td><div class='pn'>0.3</div></td>
-                                <td>33,780</td>
-                                <td><div class='pn'>0.57</div></td>
+                                <td>33,760</td>
+                                <td><div class='pn'>0.51</div></td>
                                 <td>33,350</td>
                                 <td>33,940</td>
-                                <td>10,244</td>
-                                <td><div class='ltr' title="6,063,002">6.063 M</div></td>
-                                <td><div class='ltr' title="204,269,200,930">204.269 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46348559193224090">فولاد - فولاد مباركه اصفهان</a></td>
-                                <td>10,100</td>
-                                <td><div class='pn'>0.3</div></td>
-                                <td>10,240</td>
-                                <td><div class='pn'>1.69</div></td>
-                                <td>9,990</td>
-                                <td>10,420</td>
-                                <td>9,624</td>
-                                <td><div class='ltr' title="61,754,667">61.755 M</div></td>
-                                <td><div class='ltr' title="623,666,879,120">623.667 B</div></td>
+                                <td>9,958</td>
+                                <td><div class='ltr' title="5,487,844">5.488 M</div></td>
+                                <td><div class='ltr' title="184,872,917,510">184.873 B</div></td>
                             </tr>
                         
                             <tr>
@@ -174,48 +161,61 @@
                                 <td><div class='pn'>4.98</div></td>
                                 <td>2,567</td>
                                 <td>2,633</td>
-                                <td>9,305</td>
-                                <td><div class='ltr' title="235,909,177">235.909 M</div></td>
-                                <td><div class='ltr' title="619,641,464,595">619.641 B</div></td>
+                                <td>9,257</td>
+                                <td><div class='ltr' title="235,175,472">235.175 M</div></td>
+                                <td><div class='ltr' title="617,709,619,330">617.710 B</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46348559193224090">فولاد - فولاد مباركه اصفهان</a></td>
+                                <td>10,090</td>
+                                <td><div class='pn'>0.2</div></td>
+                                <td>10,100</td>
+                                <td><div class='pn'>0.3</div></td>
+                                <td>9,990</td>
+                                <td>10,420</td>
+                                <td>8,784</td>
+                                <td><div class='ltr' title="54,807,487">54.807 M</div></td>
+                                <td><div class='ltr' title="553,016,727,870">553.017 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35366681030756042">شبندر - پالايش نفت بندرعباس</a></td>
-                                <td>6,010</td>
-                                <td><div class='pn'>2.56</div></td>
+                                <td>5,990</td>
+                                <td><div class='pn'>2.22</div></td>
                                 <td>6,150</td>
                                 <td><div class='pn'>4.95</div></td>
                                 <td>5,740</td>
                                 <td>6,150</td>
-                                <td>8,205</td>
-                                <td><div class='ltr' title="96,277,916">96.278 M</div></td>
-                                <td><div class='ltr' title="578,904,246,890">578.904 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7745894403636165">شپنا - پالايش نفت اصفهان</a></td>
-                                <td>5,760</td>
-                                <td><div class='pn'>2.31</div></td>
-                                <td>5,900</td>
-                                <td><div class='pn'>4.8</div></td>
-                                <td>5,580</td>
-                                <td>5,910</td>
-                                <td>7,275</td>
-                                <td><div class='ltr' title="78,918,396">78.918 M</div></td>
-                                <td><div class='ltr' title="454,225,596,170">454.226 B</div></td>
+                                <td>7,792</td>
+                                <td><div class='ltr' title="83,090,054">83.090 M</div></td>
+                                <td><div class='ltr' title="497,798,895,590">497.799 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=49641108336531623">انرژي3 - سايراشخاص بورس انرژي</a></td>
-                                <td>96,490</td>
-                                <td><div class='mn'>(3.41)</div></td>
-                                <td>97,120</td>
-                                <td><div class='mn'>(2.78)</div></td>
+                                <td>96,500</td>
+                                <td><div class='mn'>(3.4)</div></td>
+                                <td>95,000</td>
+                                <td><div class='mn'>(4.9)</div></td>
                                 <td>94,910</td>
                                 <td>103,740</td>
-                                <td>6,629</td>
-                                <td><div class='ltr' title="4,871,634">4.872 M</div></td>
-                                <td><div class='ltr' title="470,047,429,940">470.047 B</div></td>
+                                <td>6,382</td>
+                                <td><div class='ltr' title="4,657,087">4.657 M</div></td>
+                                <td><div class='ltr' title="449,402,830,420">449.403 B</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=778253364357513">وبملت - بانك ملت</a></td>
+                                <td>2,845</td>
+                                <td><div class='mn'>(3.89)</div></td>
+                                <td>2,814</td>
+                                <td><div class='mn'>(4.93)</div></td>
+                                <td>2,812</td>
+                                <td>3,006</td>
+                                <td>6,179</td>
+                                <td><div class='ltr' title="162,730,363">162.730 M</div></td>
+                                <td><div class='ltr' title="463,005,074,449">463.005 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -259,72 +259,72 @@
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=32097828799138957">شاخص كل</a></td>
-                                    <td>12:30</td>
-                                    <td>1,334,734.72</td>
-                                    <td><div class='mn'>(5337.51)</div></td>
-                                    <td><div class='mn'>(0.40)</div></td>
-                                    <td>1,342,698.36</td>
+                                    <td>12:20</td>
                                     <td>1,333,869.09</td>
+                                    <td><div class='mn'>(6203.19)</div></td>
+                                    <td><div class='mn'>(0.46)</div></td>
+                                    <td>1,342,698.36</td>
+                                    <td>1,333,956.92</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=5798407779416661">شاخص قيمت(وزني-ارزشي)</a></td>
-                                    <td>12:30</td>
-                                    <td>330,976.29</td>
-                                    <td><div class='mn'>(1323.55)</div></td>
-                                    <td><div class='mn'>(0.40)</div></td>
-                                    <td>332,951.05</td>
+                                    <td>12:20</td>
                                     <td>330,761.64</td>
+                                    <td><div class='mn'>(1538.22)</div></td>
+                                    <td><div class='mn'>(0.46)</div></td>
+                                    <td>332,951.05</td>
+                                    <td>330,783.42</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=67130298613737946">شاخص كل (هم وزن)</a></td>
-                                    <td>12:30</td>
-                                    <td>362,908.32</td>
-                                    <td><div class='mn'>(4652.59)</div></td>
-                                    <td><div class='mn'>(1.27)</div></td>
+                                    <td>12:20</td>
+                                    <td>363,044.15</td>
+                                    <td><div class='mn'>(4516.96)</div></td>
+                                    <td><div class='mn'>(1.23)</div></td>
                                     <td>367,832.34</td>
-                                    <td>362,975.43</td>
+                                    <td>363,110.07</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=8384385859414435">شاخص قيمت (هم وزن)</a></td>
-                                    <td>12:30</td>
-                                    <td>228,433.38</td>
-                                    <td><div class='mn'>(2928.58)</div></td>
-                                    <td><div class='mn'>(1.27)</div></td>
+                                    <td>12:20</td>
+                                    <td>228,518.88</td>
+                                    <td><div class='mn'>(2843.21)</div></td>
+                                    <td><div class='mn'>(1.23)</div></td>
                                     <td>231,532.82</td>
-                                    <td>228,475.62</td>
+                                    <td>228,560.37</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=49579049405614711">شاخص آزاد شناور</a></td>
-                                    <td>12:30</td>
-                                    <td>1,699,517.70</td>
-                                    <td><div class='mn'>(7867.63)</div></td>
-                                    <td><div class='mn'>(0.46)</div></td>
-                                    <td>1,710,240.02</td>
+                                    <td>12:20</td>
                                     <td>1,697,984.90</td>
+                                    <td><div class='mn'>(9400.87)</div></td>
+                                    <td><div class='mn'>(0.55)</div></td>
+                                    <td>1,710,240.02</td>
+                                    <td>1,698,025.78</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=62752761908615603">شاخص بازار اول</a></td>
-                                    <td>12:30</td>
-                                    <td>1,006,339.89</td>
-                                    <td><div class='mn'>(5105.78)</div></td>
-                                    <td><div class='mn'>(0.50)</div></td>
-                                    <td>1,013,095.92</td>
+                                    <td>12:20</td>
                                     <td>1,005,402.31</td>
+                                    <td><div class='mn'>(6043.39)</div></td>
+                                    <td><div class='mn'>(0.60)</div></td>
+                                    <td>1,013,095.92</td>
+                                    <td>1,005,482.96</td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=15131J&i=71704845530629737">شاخص بازار دوم</a></td>
-                                    <td>12:30</td>
-                                    <td>2,599,348.73</td>
-                                    <td><div class='mn'>(6984.97)</div></td>
-                                    <td><div class='mn'>(0.27)</div></td>
-                                    <td>2,612,766.95</td>
+                                    <td>12:20</td>
                                     <td>2,598,560.37</td>
+                                    <td><div class='mn'>(7774.70)</div></td>
+                                    <td><div class='mn'>(0.30)</div></td>
+                                    <td>2,612,766.95</td>
+                                    <td>2,598,685.98</td>
                                 </tr>
                             
                                 </tbody></table>
@@ -353,26 +353,20 @@
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35366681030756042" title="پالايش نفت بندرعباس">شبندر</a></td>
-                                    <td>6,010</td>
-                                    <td><div class='pn'>504.13</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7745894403636165" title="پالايش نفت اصفهان">شپنا</a></td>
-                                    <td>5,760</td>
-                                    <td><div class='pn'>453.6</div></td>
+                                    <td>5,990</td>
+                                    <td><div class='pn'>436.91</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=63917421733088077" title="بانك تجارت">وتجارت</a></td>
-                                    <td>1,820</td>
-                                    <td><div class='mn'>(380.93)</div></td>
+                                    <td>1,821</td>
+                                    <td><div class='mn'>(375.33)</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22811176775480091" title="مخابرات ايران">اخابر</a></td>
-                                    <td>7,010</td>
-                                    <td><div class='mn'>(375.26)</div></td>
+                                    <td>7,020</td>
+                                    <td><div class='mn'>(360.25)</div></td>
                                 </tr>
                             
                                 <tr>
@@ -382,9 +376,15 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=9536587154100457" title="بانك  پاسارگاد">وپاسار</a></td>
-                                    <td>12,860</td>
-                                    <td><div class='mn'>(311.43)</div></td>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=25244329144808274" title="صنايع پتروشيمي خليج فارس">فارس</a></td>
+                                    <td>10,000</td>
+                                    <td><div class='pn'>287.2</div></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26824673819862694" title="گروه‌بهمن‌">خبهمن</a></td>
+                                    <td>1,902</td>
+                                    <td><div class='mn'>(286.3)</div></td>
                                 </tr>
                             
                                 </tbody> </table>
@@ -409,58 +409,58 @@
                             
                                 <tr>
                                     <td>44-شيميايي</td>
-                                    <td><div class='ltr' title="12,730,496,923,091,000">12,730,496.923 B</div></td>
-                                    <td>43,409</td>
-                                    <td><div class='ltr' title="357,557,032">357.557 M</div></td>
-                                    <td><div class='ltr' title="2,977,185,968,359">2,977.186 B</div></td>
+                                    <td><div class='ltr' title="12,724,747,293,945,000">12,724,747.294 B</div></td>
+                                    <td>41,248</td>
+                                    <td><div class='ltr' title="347,837,037">347.837 M</div></td>
+                                    <td><div class='ltr' title="2,780,405,556,252">2,780.406 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td>34-خودرو</td>
-                                    <td><div class='ltr' title="1,848,942,682,632,396">1,848,942.683 B</div></td>
-                                    <td>29,712</td>
-                                    <td><div class='ltr' title="617,182,854">617.183 M</div></td>
-                                    <td><div class='ltr' title="2,102,020,403,718">2,102.020 B</div></td>
+                                    <td><div class='ltr' title="1,849,037,507,473,191">1,849,037.507 B</div></td>
+                                    <td>28,221</td>
+                                    <td><div class='ltr' title="589,563,750">589.564 M</div></td>
+                                    <td><div class='ltr' title="1,999,893,815,823">1,999.894 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td>27-فلزات اساسي</td>
-                                    <td><div class='ltr' title="10,669,751,328,021,710">10,669,751.328 B</div></td>
-                                    <td>32,052</td>
-                                    <td><div class='ltr' title="141,984,783">141.985 M</div></td>
-                                    <td><div class='ltr' title="1,745,037,476,933">1,745.037 B</div></td>
+                                    <td><div class='ltr' title="10,667,880,835,248,620">10,667,880.835 B</div></td>
+                                    <td>29,851</td>
+                                    <td><div class='ltr' title="122,984,639">122.985 M</div></td>
+                                    <td><div class='ltr' title="1,502,588,911,859">1,502.589 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td>57-بانكها</td>
-                                    <td><div class='ltr' title="2,941,082,236,468,380">2,941,082.236 B</div></td>
-                                    <td>20,395</td>
-                                    <td><div class='ltr' title="604,197,815">604.198 M</div></td>
-                                    <td><div class='ltr' title="1,487,490,176,607">1,487.490 B</div></td>
+                                    <td><div class='ltr' title="2,942,966,909,655,380">2,942,966.910 B</div></td>
+                                    <td>19,372</td>
+                                    <td><div class='ltr' title="579,886,957">579.887 M</div></td>
+                                    <td><div class='ltr' title="1,393,551,589,306">1,393.552 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td>23-فراورده نفتي</td>
-                                    <td><div class='ltr' title="3,120,482,589,282,720">3,120,482.589 B</div></td>
-                                    <td>24,290</td>
-                                    <td><div class='ltr' title="252,000,541">252.001 M</div></td>
-                                    <td><div class='ltr' title="1,479,416,910,234">1,479.417 B</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td>67-اداره بازارهاي مالي</td>
-                                    <td><div class='ltr' title="862,426,000,000,000">862,426.000 B</div></td>
-                                    <td>18,473</td>
-                                    <td><div class='ltr' title="55,174,206">55.174 M</div></td>
-                                    <td><div class='ltr' title="1,182,954,614,530">1,182.955 B</div></td>
+                                    <td><div class='ltr' title="3,103,832,920,827,900">3,103,832.921 B</div></td>
+                                    <td>21,424</td>
+                                    <td><div class='ltr' title="200,687,245">200.687 M</div></td>
+                                    <td><div class='ltr' title="1,168,557,347,643">1,168.557 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td>43-مواد دارويي</td>
-                                    <td><div class='ltr' title="1,247,659,264,000,000">1,247,659.264 B</div></td>
-                                    <td>14,812</td>
-                                    <td><div class='ltr' title="57,700,832">57.701 M</div></td>
-                                    <td><div class='ltr' title="1,068,429,882,101">1,068.430 B</div></td>
+                                    <td><div class='ltr' title="1,248,015,194,000,000">1,248,015.194 B</div></td>
+                                    <td>14,264</td>
+                                    <td><div class='ltr' title="56,056,299">56.056 M</div></td>
+                                    <td><div class='ltr' title="1,042,248,759,620">1,042.249 B</div></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>67-اداره بازارهاي مالي</td>
+                                    <td><div class='ltr' title="863,534,000,000,000">863,534.000 B</div></td>
+                                    <td>17,044</td>
+                                    <td><div class='ltr' title="47,734,484">47.734 M</div></td>
+                                    <td><div class='ltr' title="1,021,066,192,960">1,021.066 B</div></td>
                                 </tr>
                             
                                 </tbody> </table>
@@ -541,78 +541,78 @@
                             
                                 <tr>
                                     <td>25-لاستيك</td>
-                                    <td>12:30</td>
-                                    <td>221,860.34</td>
-                                    <td><div class='mn'>(5418.79)</div></td>
-                                    <td><div class='mn'>(2.38)</div></td>
-                                    <td>227,050.22</td>
+                                    <td>12:15</td>
                                     <td>222,449.86</td>
+                                    <td><div class='mn'>(4829.46)</div></td>
+                                    <td><div class='mn'>(2.12)</div></td>
+                                    <td>227,050.22</td>
+                                    <td>222,854.59</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>4</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>3</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:-1px;height:12px'></td><td style='padding:0;margin:0;border:0;width:172px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:129px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>21-محصولات كاغذ</td>
-                                    <td>12:30</td>
-                                    <td>60,906.66</td>
-                                    <td><div class='mn'>(1490.10)</div></td>
-                                    <td><div class='mn'>(2.39)</div></td>
-                                    <td>62,468.98</td>
+                                    <td>12:15</td>
                                     <td>60,987.29</td>
+                                    <td><div class='mn'>(1409.42)</div></td>
+                                    <td><div class='mn'>(2.26)</div></td>
+                                    <td>62,468.98</td>
+                                    <td>61,054.80</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>2</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>1</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:200px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:100px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>57-بانكها</td>
-                                    <td>12:30</td>
-                                    <td>5,681.58</td>
-                                    <td><div class='mn'>(169.97)</div></td>
-                                    <td><div class='mn'>(2.90)</div></td>
-                                    <td>5,850.69</td>
+                                    <td>12:15</td>
                                     <td>5,687.93</td>
+                                    <td><div class='mn'>(163.62)</div></td>
+                                    <td><div class='mn'>(2.80)</div></td>
+                                    <td>5,850.69</td>
+                                    <td>5,690.43</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>7</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>3</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:210px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:90px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>28-محصولات فلزي</td>
-                                    <td>12:30</td>
-                                    <td>165,297.85</td>
-                                    <td><div class='mn'>(5304.72)</div></td>
-                                    <td><div class='mn'>(3.11)</div></td>
-                                    <td>170,802.45</td>
+                                    <td>12:15</td>
                                     <td>165,542.52</td>
+                                    <td><div class='mn'>(5060.07)</div></td>
+                                    <td><div class='mn'>(2.97)</div></td>
+                                    <td>170,802.45</td>
+                                    <td>165,940.72</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>6</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>0</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>73-اطلاعات و ارتباطات</td>
-                                    <td>12:30</td>
-                                    <td>649.97</td>
-                                    <td><div class='mn'>(25.83)</div></td>
-                                    <td><div class='mn'>(3.82)</div></td>
-                                    <td>677.54</td>
+                                    <td>12:15</td>
                                     <td>650.23</td>
+                                    <td><div class='mn'>(25.57)</div></td>
+                                    <td><div class='mn'>(3.78)</div></td>
+                                    <td>677.54</td>
+                                    <td>651.20</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>1</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>0</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>32-وسايل ارتباطي</td>
-                                    <td>12:30</td>
-                                    <td>51,834.66</td>
-                                    <td><div class='mn'>(2068.37)</div></td>
-                                    <td><div class='mn'>(3.84)</div></td>
-                                    <td>52,482.29</td>
+                                    <td>12:15</td>
                                     <td>51,863.11</td>
+                                    <td><div class='mn'>(2039.91)</div></td>
+                                    <td><div class='mn'>(3.78)</div></td>
+                                    <td>52,482.29</td>
+                                    <td>51,872.18</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>1</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>0</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
                                 <tr>
                                     <td>19-محصولات چرمي</td>
-                                    <td>12:30</td>
-                                    <td>19,561.04</td>
-                                    <td><div class='mn'>(942.64)</div></td>
-                                    <td><div class='mn'>(4.60)</div></td>
-                                    <td>20,260.63</td>
+                                    <td>12:15</td>
                                     <td>19,574.97</td>
+                                    <td><div class='mn'>(928.69)</div></td>
+                                    <td><div class='mn'>(4.53)</div></td>
+                                    <td>20,260.63</td>
+                                    <td>19,576.75</td>
                                     <td><table  desc='تغییر قیمت نمادها,<table border=0><tr><td>تغییر قیمت</td><td>تعداد شرکت</td></tr><tr style=background-color:#de3b3b><td>بيش از 2% کاهش</td><td>1</td></tr><tr style=background-color:#ffcebe><td>كمتر از 2% کاهش</td><td>0</td></tr><tr style=background-color:#acf4ac><td>كمتر از 2% افزایش</td><td>0</td></tr><tr style=background-color:#2cd42c><td>بيش از 2% افزایش</td><td>0</td></tr></table>' onmouseover='ShowTooltip(this)' onmouseout='HideTooltip()' style='padding:0;margin:0;border:0;width:300px;height:12px' border=0 cellpadding=0 cellspacing=0 align='center'><tr><td style='padding:0;margin:0;border:0;width:0px;height:12px'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px;background-color:#de3b3b'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#ffcebe'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#acf4ac'></td><td style='padding:0;margin:0;border:0;width:0px;height:12px;background-color:#2cd42c'></td><td style='padding:0;margin:0;border:0;width:300px;height:12px'></td></tr></table></script></td>
                                 </tr>
                             
@@ -659,14 +659,14 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24085906177899789" title="توليدي‌ كاشي‌ تكسرام‌">كترام</a></td>
-                                <td>20,530</td>
-                                <td><div class='pn'>4.11</div></td>
+                                <td>20,540</td>
+                                <td><div class='pn'>4.16</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=50185721305191887" title="رادياتور ايران‌">ختور</a></td>
-                                <td>15,810</td>
-                                <td><div class='pn'>3.6</div></td>
+                                <td>15,820</td>
+                                <td><div class='pn'>3.67</div></td>
                             </tr>
                         
                             <tr>
@@ -729,15 +729,15 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22087269603540841" title="پست بانك ايران">وپست</a></td>
-                                <td>19,150</td>
-                                <td><div class='mn'>(4.77)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7385624172574740" title="سرمايه‌گذاري‌ رنا(هلدينگ‌">ورنا</a></td>
+                                <td>3,041</td>
+                                <td><div class='mn'>(4.7)</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7385624172574740" title="سرمايه‌گذاري‌ رنا(هلدينگ‌">ورنا</a></td>
-                                <td>3,040</td>
-                                <td><div class='mn'>(4.73)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=34557241988629814" title="گروه دارويي بركت">بركت</a></td>
+                                <td>19,610</td>
+                                <td><div class='mn'>(4.62)</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -758,45 +758,45 @@
                                 <tbody>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=8977441217024425" title="گروه‌صنعتي‌سپاهان‌">فسپا</a></td>
-                                <td>16,310</td>
-                                <td><div class='pn'>3.75</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=51617145873056483" title="پالايش نفت تهران">شتران</a></td>
+                                <td>4,250</td>
+                                <td><div class='pn'>3.58</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35669480110084448" title="سيمان‌سپاهان‌">سپاها</a></td>
-                                <td>6,750</td>
-                                <td><div class='pn'>3.21</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=57273529732791251" title="موتورسازان‌تراكتورسازي‌ايران‌">خموتور</a></td>
-                                <td>6,650</td>
-                                <td><div class='pn'>2.94</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7745894403636165" title="پالايش نفت اصفهان">شپنا</a></td>
+                                <td>5,900</td>
+                                <td><div class='pn'>3.51</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=25001509088465005" title="صنايع‌ كاشي‌ و سراميك‌ سينا">كساوه</a></td>
-                                <td>40,190</td>
-                                <td><div class='pn'>2.87</div></td>
+                                <td>40,250</td>
+                                <td><div class='pn'>3.21</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=63580313877463104" title="ايران‌ياساتايرورابر">پاسا</a></td>
-                                <td>13,690</td>
-                                <td><div class='pn'>2.78</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=48753732042176709" title="پالايش نفت تبريز">شبريز</a></td>
+                                <td>31,090</td>
+                                <td><div class='pn'>3.19</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3863538898378476" title="سرمايه‌گذاري‌ مسكن‌">ثمسكن</a></td>
-                                <td>3,417</td>
-                                <td><div class='pn'>2.61</div></td>
+                                <td>3,411</td>
+                                <td><div class='pn'>2.9</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=51617145873056483" title="پالايش نفت تهران">شتران</a></td>
-                                <td>4,226</td>
-                                <td><div class='pn'>2.6</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35366681030756042" title="پالايش نفت بندرعباس">شبندر</a></td>
+                                <td>6,150</td>
+                                <td><div class='pn'>2.67</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=27405735172634593" title="بيمه اتكايي امين">اتكام</a></td>
+                                <td>4,839</td>
+                                <td><div class='pn'>2.3</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -849,13 +849,13 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=65321970913593427" title="سيمان كردستان">سكرد</a></td>
                                 <td>4,350</td>
-                                <td><div class='mn'>(4.63)</div></td>
+                                <td><div class='mn'>(4.65)</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=4733285133017464" title="فولاد خراسان">فخاس</a></td>
-                                <td>22,590</td>
-                                <td><div class='mn'>(4.56)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=41048299027409941" title="تجارت الكترونيك  پارسيان">رتاپ</a></td>
+                                <td>6,340</td>
+                                <td><div class='mn'>(4.52)</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -883,8 +883,14 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=55622199783443721" title="ح . پتروشيمي فناوران">شفنح</a></td>
-                                <td>12,090</td>
-                                <td><div class='pn'>1.51</div></td>
+                                <td>12,110</td>
+                                <td><div class='pn'>1.68</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=41228676018429540" title="ح. كوير تاير">پكويرح</a></td>
+                                <td>3,517</td>
+                                <td><div class='mn'>(2.68)</div></td>
                             </tr>
                         
                             <tr>
@@ -900,21 +906,15 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=41228676018429540" title="ح. كوير تاير">پكويرح</a></td>
-                                <td>3,514</td>
-                                <td><div class='mn'>(2.77)</div></td>
-                            </tr>
-                        
-                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=50722377181482963" title="ح . مهركام‌پارس‌">خمهرح</a></td>
-                                <td>851</td>
-                                <td><div class='mn'>(4.49)</div></td>
+                                <td>852</td>
+                                <td><div class='mn'>(4.38)</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=8981227815720204" title="ح . گروه دارويي بركت">بركتح</a></td>
-                                <td>15,820</td>
-                                <td><div class='mn'>(5.5)</div></td>
+                                <td>15,830</td>
+                                <td><div class='mn'>(5.44)</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -985,49 +985,41 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=70595828753641750" title="صندوق س. پارند پايدار سپهر">پارند</a></td>
                                 <td>10,156</td>
-                                <td><div class='ltr' title="51,910,902">51.911 M</div></td>
-                                <td><div class='ltr' title="527,207,120,712">527.207 B</div></td>
-                                <td>525</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3846143218462419" title="صندوق س افرا نماد پايدار-ثابت">افران</a></td>
-                                <td>14,905</td>
-                                <td><div class='ltr' title="34,217,716">34.218 M</div></td>
-                                <td><div class='ltr' title="510,015,056,980">510.015 B</div></td>
-                                <td>367</td>
+                                <td><div class='ltr' title="52,231,784">52.232 M</div></td>
+                                <td><div class='ltr' title="530,465,998,304">530.466 B</div></td>
+                                <td>528</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=34718633636164421" title="صندوق س. با درآمد ثابت كمند">كمند</a></td>
                                 <td>10,154</td>
-                                <td><div class='ltr' title="49,855,043">49.855 M</div></td>
-                                <td><div class='ltr' title="506,228,106,622">506.228 B</div></td>
-                                <td>525</td>
+                                <td><div class='ltr' title="51,809,491">51.809 M</div></td>
+                                <td><div class='ltr' title="526,073,571,614">526.074 B</div></td>
+                                <td>551</td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35366681030756042" title="پالايش نفت بندرعباس">شبندر</a></td>
-                                <td>6,150</td>
-                                <td><div class='ltr' title="32,192,538">32.193 M</div></td>
-                                <td><div class='ltr' title="197,984,108,700">197.984 B</div></td>
-                                <td>290</td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3846143218462419" title="صندوق س افرا نماد پايدار-ثابت">افران</a></td>
+                                <td>14,905</td>
+                                <td><div class='ltr' title="34,776,819">34.777 M</div></td>
+                                <td><div class='ltr' title="518,348,487,195">518.348 B</div></td>
+                                <td>375</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=65249046611427924" title="صندوق س آواي فرداي زاگرس-ثابت">فردا</a></td>
                                 <td>11,933</td>
-                                <td><div class='ltr' title="15,146,105">15.146 M</div></td>
-                                <td><div class='ltr' title="180,738,470,965">180.738 B</div></td>
+                                <td><div class='ltr' title="15,170,505">15.171 M</div></td>
+                                <td><div class='ltr' title="181,029,636,165">181.030 B</div></td>
                                 <td>160</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=1438514795814416" title="صندوق س ياقوت آگاه-ثابت">ياقوت</a></td>
                                 <td>13,707</td>
-                                <td><div class='ltr' title="10,088,927">10.089 M</div></td>
-                                <td><div class='ltr' title="138,288,922,389">138.289 B</div></td>
-                                <td>103</td>
+                                <td><div class='ltr' title="9,898,586">9.899 M</div></td>
+                                <td><div class='ltr' title="135,679,918,302">135.680 B</div></td>
+                                <td>100</td>
                             </tr>
                         
                             <tr>
@@ -1036,6 +1028,14 @@
                                 <td><div class='ltr' title="10,026,892">10.027 M</div></td>
                                 <td><div class='ltr' title="133,157,125,760">133.157 B</div></td>
                                 <td>103</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=17226661368470120" title="صندوق س سپر سرمايه بيدار- ثابت">سپر</a></td>
+                                <td>13,281</td>
+                                <td><div class='ltr' title="9,000,942">9.001 M</div></td>
+                                <td><div class='ltr' title="119,541,510,702">119.542 B</div></td>
+                                <td>91</td>
                             </tr>
                         
                             </tbody> </table>
@@ -1069,49 +1069,49 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=5454781314262062" title="شركت س استان خوزستان">وسخوز</a></td>
                                 <td>604</td>
-                                <td><div class='ltr' title="597,495,274">597.495 M</div></td>
-                                <td><div class='ltr' title="360,887,145,496">360.887 B</div></td>
-                                <td>3237</td>
+                                <td><div class='ltr' title="597,308,743">597.309 M</div></td>
+                                <td><div class='ltr' title="360,774,480,772">360.774 B</div></td>
+                                <td>3234</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=51185499879934793" title="س.سهام عدالت استان خراسان رضوي">وسرضوي</a></td>
                                 <td>690</td>
-                                <td><div class='ltr' title="288,270,967">288.271 M</div></td>
-                                <td><div class='ltr' title="198,906,967,230">198.907 B</div></td>
-                                <td>3309</td>
+                                <td><div class='ltr' title="287,103,602">287.104 M</div></td>
+                                <td><div class='ltr' title="198,101,485,380">198.101 B</div></td>
+                                <td>3294</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=65004959184388996" title="آلومينيوم‌ايران‌">فايرا</a></td>
                                 <td>15,170</td>
-                                <td><div class='ltr' title="11,851,288">11.851 M</div></td>
-                                <td><div class='ltr' title="179,784,038,960">179.784 B</div></td>
-                                <td>158</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=2254054929817435" title="خوراك‌  دام‌ پارس‌">غدام</a></td>
-                                <td>113,080</td>
-                                <td><div class='ltr' title="1,376,057">1.376 M</div></td>
-                                <td><div class='ltr' title="155,604,525,560">155.605 B</div></td>
-                                <td>166</td>
+                                <td><div class='ltr' title="12,317,431">12.317 M</div></td>
+                                <td><div class='ltr' title="186,855,428,270">186.855 B</div></td>
+                                <td>163</td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=70595828753641750" title="صندوق س. پارند پايدار سپهر">پارند</a></td>
                                 <td>10,157</td>
-                                <td><div class='ltr' title="13,798,880">13.799 M</div></td>
-                                <td><div class='ltr' title="140,155,224,160">140.155 B</div></td>
-                                <td>147</td>
+                                <td><div class='ltr' title="16,744,124">16.744 M</div></td>
+                                <td><div class='ltr' title="170,070,067,468">170.070 B</div></td>
+                                <td>177</td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=10191122735393627" title="شركت س استان خراسان جنوبي">وسخراج</a></td>
-                                <td>2,099</td>
-                                <td><div class='ltr' title="55,712,361">55.712 M</div></td>
-                                <td><div class='ltr' title="116,940,245,739">116.940 B</div></td>
-                                <td>516</td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=2254054929817435" title="خوراك‌  دام‌ پارس‌">غدام</a></td>
+                                <td>113,080</td>
+                                <td><div class='ltr' title="1,383,480">1.383 M</div></td>
+                                <td><div class='ltr' title="156,443,918,400">156.444 B</div></td>
+                                <td>169</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=41048299027409941" title="تجارت الكترونيك  پارسيان">رتاپ</a></td>
+                                <td>6,340</td>
+                                <td><div class='ltr' title="19,038,831">19.039 M</div></td>
+                                <td><div class='ltr' title="120,706,188,540">120.706 B</div></td>
+                                <td>294</td>
                             </tr>
                         
                             </tbody> </table>
@@ -11713,38 +11713,38 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35366681030756042" title="پالايش نفت بندرعباس">شبندر</a></td>
-                                <td><div class='ltr' title="807,394,951,220,000">807,395 B</div></td>
-                                <td><div class='ltr' title="20,151,288,300,000">20,151.288 B</div></td>
+                                <td><div class='ltr' title="803,364,693,560,000">803,365 B</div></td>
+                                <td><div class='ltr' title="16,121,030,640,000">16,121.031 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7745894403636165" title="پالايش نفت اصفهان">شپنا</a></td>
-                                <td><div class='ltr' title="803,372,879,502,720">803,373 B</div></td>
-                                <td><div class='ltr' title="18,131,679,572,110">18,131.680 B</div></td>
+                                <td><div class='ltr' title="795,004,412,007,900">795,004 B</div></td>
+                                <td><div class='ltr' title="9,763,212,077,290">9,763.212 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26014913469567886" title="سرمايه‌گذاري‌غدير(هلدينگ‌">وغدير</a></td>
-                                <td><div class='ltr' title="1,008,000,000,000,000">1,008,000 B</div></td>
-                                <td><div class='ltr' title="11,520,000,000,000">11,520.000 B</div></td>
+                                <td><div class='ltr' title="1,005,120,000,000,000">1,005,120 B</div></td>
+                                <td><div class='ltr' title="8,640,000,000,000">8,640.000 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=25244329144808274" title="صنايع پتروشيمي خليج فارس">فارس</a></td>
-                                <td><div class='ltr' title="2,870,000,000,000,000">2,870,000 B</div></td>
-                                <td><div class='ltr' title="11,480,000,000,000">11,480.000 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46348559193224090" title="فولاد مباركه اصفهان">فولاد</a></td>
-                                <td><div class='ltr' title="2,959,300,000,000,000">2,959,300 B</div></td>
-                                <td><div class='ltr' title="8,790,000,000,000">8,790.000 B</div></td>
+                                <td><div class='ltr' title="2,867,130,000,000,000">2,867,130 B</div></td>
+                                <td><div class='ltr' title="8,610,000,000,000">8,610.000 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=69143674941561637" title="گروه پتروشيمي س. ايرانيان">پترول</a></td>
                                 <td><div class='ltr' title="183,890,000,000,000">183,890 B</div></td>
                                 <td><div class='ltr' title="8,330,000,000,000">8,330.000 B</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46348559193224090" title="فولاد مباركه اصفهان">فولاد</a></td>
+                                <td><div class='ltr' title="2,956,370,000,000,000">2,956,370 B</div></td>
+                                <td><div class='ltr' title="5,860,000,000,000">5,860.000 B</div></td>
                             </tr>
                         
                             <tr>
@@ -11782,51 +11782,51 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=67675656072510693" title="صندوق پالايشي يكم-سهام">پالايش</a></td>
-                                <td>22,393</td>
-                                <td><div class='ltr' title="26,732,108">26.732 M</div></td>
-                                <td><div class='ltr' title="1,860,944,022,320">1,860.944 B</div></td>
-                                <td><div class='ltr' title="92,182,667,754,280">92,183 B</div></td>
-                            </tr>
-                        
-                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=34718633636164421" title="صندوق س. با درآمد ثابت كمند">كمند</a></td>
-                                <td>4,208</td>
-                                <td><div class='ltr' title="165,538,946">165.539 M</div></td>
-                                <td><div class='ltr' title="1,680,918,147,537">1,680.918 B</div></td>
+                                <td>3,985</td>
+                                <td><div class='ltr' title="156,491,525">156.492 M</div></td>
+                                <td><div class='ltr' title="1,589,049,129,984">1,589.049 B</div></td>
                                 <td><div class='ltr' title="142,156,000,000,000">142,156 B</div></td>
                             </tr>
                         
                             <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=67675656072510693" title="صندوق پالايشي يكم-سهام">پالايش</a></td>
+                                <td>19,481</td>
+                                <td><div class='ltr' title="22,183,436">22.183 M</div></td>
+                                <td><div class='ltr' title="1,538,299,688,080">1,538.300 B</div></td>
+                                <td><div class='ltr' title="91,825,113,950,320">91,825 B</div></td>
+                            </tr>
+                        
+                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=53251602435454519" title="صندوق س. با درآمد ثابت كيان">كيان</a></td>
-                                <td>3,302</td>
-                                <td><div class='ltr' title="33,568,873">33.569 M</div></td>
-                                <td><div class='ltr' title="1,070,419,076,621">1,070.419 B</div></td>
+                                <td>3,182</td>
+                                <td><div class='ltr' title="32,796,707">32.797 M</div></td>
+                                <td><div class='ltr' title="1,045,797,954,865">1,045.798 B</div></td>
                                 <td><div class='ltr' title="95,661,000,000,000">95,661 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=62235397452612911" title="صندوق واسطه گري مالي يكم-سهام">دارا يكم</a></td>
-                                <td>14,522</td>
-                                <td><div class='ltr' title="9,078,083">9.078 M</div></td>
-                                <td><div class='ltr' title="996,840,544,800">996.841 B</div></td>
-                                <td><div class='ltr' title="64,599,365,234,420">64,599 B</div></td>
+                                <td>13,893</td>
+                                <td><div class='ltr' title="8,490,796">8.491 M</div></td>
+                                <td><div class='ltr' title="932,104,334,530">932.104 B</div></td>
+                                <td><div class='ltr' title="64,581,716,741,960">64,582 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=2400322364771558" title="سرمايه گذاري تامين اجتماعي">شستا</a></td>
-                                <td>11,886</td>
-                                <td><div class='ltr' title="64,092,378">64.092 M</div></td>
-                                <td><div class='ltr' title="695,555,202,070">695.555 B</div></td>
-                                <td><div class='ltr' title="1,540,700,000,000,000">1,540,700 B</div></td>
+                                <td>10,930</td>
+                                <td><div class='ltr' title="58,154,482">58.154 M</div></td>
+                                <td><div class='ltr' title="630,331,823,750">630.332 B</div></td>
+                                <td><div class='ltr' title="1,539,280,000,000,000">1,539,280 B</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46348559193224090" title="فولاد مباركه اصفهان">فولاد</a></td>
-                                <td>9,645</td>
-                                <td><div class='ltr' title="61,821,363">61.821 M</div></td>
-                                <td><div class='ltr' title="624,348,995,150">624.349 B</div></td>
-                                <td><div class='ltr' title="2,959,300,000,000,000">2,959,300 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=69143674941561637" title="گروه پتروشيمي س. ايرانيان">پترول</a></td>
+                                <td>9,248</td>
+                                <td><div class='ltr' title="234,921,876">234.922 M</div></td>
+                                <td><div class='ltr' title="617,041,901,062">617.042 B</div></td>
+                                <td><div class='ltr' title="183,890,000,000,000">183,890 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -11850,19 +11850,19 @@
                                 <tbody>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26824673819862694" title="گروه‌بهمن‌">خبهمن</a></td>
-                                <td>5,542</td>
-                                <td><div class='ltr' title="242,622,674">242.623 M</div></td>
-                                <td><div class='ltr' title="461,485,179,748">461.485 B</div></td>
-                                <td><div class='ltr' title="256,081,413,234,000">256,081 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=69143674941561637" title="گروه پتروشيمي س. ايرانيان">پترول</a></td>
+                                <td>9,248</td>
+                                <td><div class='ltr' title="234,921,876">234.922 M</div></td>
+                                <td><div class='ltr' title="617,041,901,062">617.042 B</div></td>
+                                <td><div class='ltr' title="183,890,000,000,000">183,890 B</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=69143674941561637" title="گروه پتروشيمي س. ايرانيان">پترول</a></td>
-                                <td>9,306</td>
-                                <td><div class='ltr' title="235,911,177">235.911 M</div></td>
-                                <td><div class='ltr' title="619,646,730,595">619.647 B</div></td>
-                                <td><div class='ltr' title="183,890,000,000,000">183,890 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26824673819862694" title="گروه‌بهمن‌">خبهمن</a></td>
+                                <td>5,237</td>
+                                <td><div class='ltr' title="232,033,235">232.033 M</div></td>
+                                <td><div class='ltr' title="441,234,931,178">441.235 B</div></td>
+                                <td><div class='ltr' title="256,081,413,234,000">256,081 B</div></td>
                             </tr>
                         
                             <tr>
@@ -11883,26 +11883,26 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=48990026850202503" title="گسترش‌سرمايه‌گذاري‌ايران‌خودرو">خگستر</a></td>
-                                <td>6,352</td>
-                                <td><div class='ltr' title="182,050,063">182.050 M</div></td>
-                                <td><div class='ltr' title="448,438,966,534">448.439 B</div></td>
-                                <td><div class='ltr' title="97,547,452,431,000">97,547 B</div></td>
+                                <td>6,015</td>
+                                <td><div class='ltr' title="172,469,630">172.470 M</div></td>
+                                <td><div class='ltr' title="425,026,634,158">425.027 B</div></td>
+                                <td><div class='ltr' title="97,587,057,568,000">97,587 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=778253364357513" title="بانك ملت">وبملت</a></td>
-                                <td>6,486</td>
-                                <td><div class='ltr' title="170,794,835">170.795 M</div></td>
-                                <td><div class='ltr' title="485,868,424,924">485.868 B</div></td>
+                                <td>6,163</td>
+                                <td><div class='ltr' title="162,431,614">162.432 M</div></td>
+                                <td><div class='ltr' title="462,164,332,955">462.164 B</div></td>
                                 <td><div class='ltr' title="589,036,942,390,000">589,037 B</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=34718633636164421" title="صندوق س. با درآمد ثابت كمند">كمند</a></td>
-                                <td>4,208</td>
-                                <td><div class='ltr' title="165,538,946">165.539 M</div></td>
-                                <td><div class='ltr' title="1,680,918,147,537">1,680.918 B</div></td>
-                                <td><div class='ltr' title="142,156,000,000,000">142,156 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28320293733348826" title="بانك صادرات ايران">وبصادر</a></td>
+                                <td>4,161</td>
+                                <td><div class='ltr' title="156,829,079">156.829 M</div></td>
+                                <td><div class='ltr' title="272,213,067,202">272.213 B</div></td>
+                                <td><div class='ltr' title="304,414,495,392,000">304,414 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -11931,14 +11931,14 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=63917421733088077" title="بانك تجارت">وتجارت</a></td>
-                                <td><div class='ltr' title="407,545,551,140,000">407,546 B</div></td>
-                                <td><div class='ltr' title="15,226,976,636,000">15,226.977 B</div></td>
+                                <td><div class='ltr' title="407,769,477,267,000">407,769 B</div></td>
+                                <td><div class='ltr' title="15,003,050,509,000">15,003.051 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22811176775480091" title="مخابرات ايران">اخابر</a></td>
-                                <td><div class='ltr' title="420,600,000,000,000">420,600 B</div></td>
-                                <td><div class='ltr' title="15,000,000,000,000">15,000.000 B</div></td>
+                                <td><div class='ltr' title="421,200,000,000,000">421,200 B</div></td>
+                                <td><div class='ltr' title="14,400,000,000,000">14,400.000 B</div></td>
                             </tr>
                         
                             <tr>
@@ -11948,21 +11948,21 @@
                             </tr>
                         
                             <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26824673819862694" title="گروه‌بهمن‌">خبهمن</a></td>
+                                <td><div class='ltr' title="256,081,413,234,000">256,081 B</div></td>
+                                <td><div class='ltr' title="11,444,227,195,000">11,444.227 B</div></td>
+                            </tr>
+                        
+                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=9536587154100457" title="بانك  پاسارگاد">وپاسار</a></td>
-                                <td><div class='ltr' title="842,587,200,000,000">842,587 B</div></td>
-                                <td><div class='ltr' title="12,448,800,000,000">12,448.800 B</div></td>
+                                <td><div class='ltr' title="843,897,600,000,000">843,898 B</div></td>
+                                <td><div class='ltr' title="11,138,400,000,000">11,138.400 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35700344742885862" title="معدني و صنعتي گل گهر">كگل</a></td>
-                                <td><div class='ltr' title="2,300,000,000,000,000">2,300,000 B</div></td>
-                                <td><div class='ltr' title="12,000,000,000,000">12,000.000 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26824673819862694" title="گروه‌بهمن‌">خبهمن</a></td>
-                                <td><div class='ltr' title="256,081,413,234,000">256,081 B</div></td>
-                                <td><div class='ltr' title="11,444,227,195,000">11,444.227 B</div></td>
+                                <td><div class='ltr' title="2,301,000,000,000,000">2,301,000 B</div></td>
+                                <td><div class='ltr' title="11,000,000,000,000">11,000.000 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12409,35 +12409,35 @@
                         <tbody>
                             <tr>
                                 <td>وضعیت بازار</td>
-                                <td>بسته&nbsp;<span class='RealServerTime'><!--RealServerTime--></span></td>
+                                <td>باز&nbsp;<span class='RealServerTime'><!--RealServerTime--></span></td>
                             </tr>
                             <tr>
                                 <td>شاخص کل</td>
-                                <td>19,135.05 <div class='mn'>(100.58)</div></td>
+                                <td>19,138.04 <div class='mn'>(97.58)</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>اول و دوم</span></td>
-                                <td><div class='ltr' title="10,685,604,632,051,961">10,685,604.632 B</div></td>
+                                <td><div class='ltr' title="10,687,234,215,849,388">10,687,234.216 B</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>پایه</span></td>
-                                <td><div class='ltr' title="3,479,095,892,487,693">3,479,095.892 B</div></td>
+                                <td><div class='ltr' title="3,481,236,009,701,185">3,481,236.010 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td>00/9/13 12:29:55</td>
+                                <td>00/9/13 12:24:00</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td>187,285</td>
+                                <td>179,530</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td><div class='ltr' title="13,905,256,729,047">13,905.257 B</div></td>
+                                <td><div class='ltr' title="13,329,230,224,328">13,329.230 B</div></td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td><div class='ltr' title="1,201,568,419">1.202 B</div></td>
+                                <td><div class='ltr' title="1,141,104,980">1.141 B</div></td>
                             </tr>
                         </tbody>
                     </table>
@@ -12460,16 +12460,16 @@
                         
                             <tr>
                                 <td>سهام</td>
-                                <td>167,204</td>
-                                <td><div class='ltr' title="1,026,660,899">1.027 B</div></td>
-                                <td><div class='ltr' title="7,519,676,786,921">7,519.677 B</div></td>
+                                <td>160,720</td>
+                                <td><div class='ltr' title="976,733,379">976.733 M</div></td>
+                                <td><div class='ltr' title="7,207,811,025,413">7,207.811 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td>اوراق مالی اسلامی</td>
-                                <td>934</td>
-                                <td><div class='ltr' title="4,783,176">4.783 M</div></td>
-                                <td><div class='ltr' title="3,414,375,536,424">3,414.376 B</div></td>
+                                <td>902</td>
+                                <td><div class='ltr' title="4,636,632">4.637 M</div></td>
+                                <td><div class='ltr' title="3,335,592,175,692">3,335.592 B</div></td>
                             </tr>
                         
                             <tr>
@@ -12481,9 +12481,9 @@
                         
                             <tr>
                                 <td>سایر</td>
-                                <td>16,992</td>
-                                <td><div class='ltr' title="148,861,673">148.862 M</div></td>
-                                <td><div class='ltr' title="2,766,108,373,136">2,766.108 B</div></td>
+                                <td>16,384</td>
+                                <td><div class='ltr' title="146,314,449">146.314 M</div></td>
+                                <td><div class='ltr' title="2,682,365,339,383">2,682.365 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12496,16 +12496,6 @@
                     
                             <table class="table1">
                                 <tbody>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/13 12:26</td>
-                                <td class='pointer' onclick='jo.TseMsg(114673)'>اتمام پذيره نويسي و مسدود نمودن دسترسي معامله گران در نماد (اتكا تهران1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/13 12:26</td>
-                                <td class='pointer' onclick='jo.TseMsg(114672)'>عرضه عمده سهام غيرمديريتي در نماد معاملاتي (دماوند4)	</td>
-                            </tr>
                         
                             <tr>
                                 <td class='ltr'>00/9/13 11:53</td>
@@ -12537,6 +12527,16 @@
                                 <td class='pointer' onclick='jo.TseMsg(114665)'>گشايش مجدد حق تقدم خريد در نماد معاملاتي (حبندرح1)</td>
                             </tr>
                         
+                            <tr>
+                                <td class='ltr'>00/9/13 11:07</td>
+                                <td class='pointer' onclick='jo.TseMsg(114664)'>انجام معاملات در نماد معاملاتي (ويستا1)</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/13 10:35</td>
+                                <td class='pointer' onclick='jo.TseMsg(114659)'>بازگشايي نماد معاملاتي (خكرمان1)</td>
+                            </tr>
+                        
                             </tbody> </table>
                         
                 </div>
@@ -12562,41 +12562,41 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66315581735594751">توسن - توسعه سامانه ي نرم افزاري نگين</a></td>
-                                <td>22,005</td>
-                                <td><div class='pn'>4.18</div></td>
+                                <td>22,002</td>
+                                <td><div class='pn'>4.17</div></td>
                                 <td>22,178</td>
                                 <td><div class='pn'>5</div></td>
                                 <td>21,397</td>
                                 <td>22,178</td>
-                                <td>12,652</td>
-                                <td><div class='ltr' title="19,996,501">19.997 M</div></td>
-                                <td><div class='ltr' title="440,028,023,963">440.028 B</div></td>
+                                <td>12,461</td>
+                                <td><div class='ltr' title="19,571,986">19.572 M</div></td>
+                                <td><div class='ltr' title="430,613,130,293">430.613 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=45507655586782998">فجهان - مجتمع جهان فولاد سيرجان</a></td>
-                                <td>5,414</td>
-                                <td><div class='mn'>(1.78)</div></td>
-                                <td>5,470</td>
-                                <td><div class='mn'>(0.76)</div></td>
+                                <td>5,408</td>
+                                <td><div class='mn'>(1.89)</div></td>
+                                <td>5,464</td>
+                                <td><div class='mn'>(0.87)</div></td>
                                 <td>5,335</td>
                                 <td>5,530</td>
-                                <td>7,249</td>
-                                <td><div class='ltr' title="21,520,055">21.520 M</div></td>
-                                <td><div class='ltr' title="116,514,701,498">116.515 B</div></td>
+                                <td>6,976</td>
+                                <td><div class='ltr' title="19,366,406">19.366 M</div></td>
+                                <td><div class='ltr' title="104,736,548,289">104.737 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=50792786683910016">كرمان - س. توسعه و عمران استان كرمان</a></td>
-                                <td>901</td>
-                                <td><div class='mn'>(2.8)</div></td>
-                                <td>895</td>
-                                <td><div class='mn'>(3.45)</div></td>
+                                <td>902</td>
+                                <td><div class='mn'>(2.7)</div></td>
+                                <td>894</td>
+                                <td><div class='mn'>(3.56)</div></td>
                                 <td>888</td>
                                 <td>942</td>
-                                <td>5,680</td>
-                                <td><div class='ltr' title="180,760,295">180.760 M</div></td>
-                                <td><div class='ltr' title="162,923,877,120">162.924 B</div></td>
+                                <td>5,293</td>
+                                <td><div class='ltr' title="165,042,550">165.043 M</div></td>
+                                <td><div class='ltr' title="148,846,047,216">148.846 B</div></td>
                             </tr>
                         
                             <tr>
@@ -12607,48 +12607,48 @@
                                 <td><div class='pn'>5</div></td>
                                 <td>17,864</td>
                                 <td>19,744</td>
-                                <td>4,378</td>
-                                <td><div class='ltr' title="12,403,997">12.404 M</div></td>
-                                <td><div class='ltr' title="243,673,834,002">243.674 B</div></td>
+                                <td>4,325</td>
+                                <td><div class='ltr' title="12,380,516">12.381 M</div></td>
+                                <td><div class='ltr' title="243,210,225,138">243.210 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=12490072956930435">مديريت - س. و خدمات مديريت صند. ب كشوري</a></td>
-                                <td>8,402</td>
-                                <td><div class='mn'>(1.98)</div></td>
-                                <td>8,315</td>
-                                <td><div class='mn'>(3)</div></td>
+                                <td>8,406</td>
+                                <td><div class='mn'>(1.94)</div></td>
+                                <td>8,301</td>
+                                <td><div class='mn'>(3.16)</div></td>
                                 <td>8,275</td>
                                 <td>8,730</td>
-                                <td>4,374</td>
-                                <td><div class='ltr' title="5,549,032">5.549 M</div></td>
-                                <td><div class='ltr' title="46,621,021,419">46.621 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=55127657985997520">آريا - پليمر آريا ساسول</a></td>
-                                <td>109,915</td>
-                                <td><div class='pn'>0.01</div></td>
-                                <td>110,300</td>
-                                <td><div class='pn'>0.36</div></td>
-                                <td>108,673</td>
-                                <td>113,301</td>
-                                <td>3,182</td>
-                                <td><div class='ltr' title="1,156,104">1.156 M</div></td>
-                                <td><div class='ltr' title="127,072,920,428">127.073 B</div></td>
+                                <td>4,232</td>
+                                <td><div class='ltr' title="5,258,576">5.259 M</div></td>
+                                <td><div class='ltr' title="44,203,341,038">44.203 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3407806799514469">شاروم - پتروشيمي اروميه</a></td>
-                                <td>13,107</td>
-                                <td><div class='pn'>3.74</div></td>
+                                <td>13,073</td>
+                                <td><div class='pn'>3.47</div></td>
                                 <td>13,266</td>
                                 <td><div class='pn'>4.99</div></td>
                                 <td>12,550</td>
                                 <td>13,266</td>
-                                <td>3,037</td>
-                                <td><div class='ltr' title="2,792,431">2.792 M</div></td>
-                                <td><div class='ltr' title="36,601,553,174">36.602 B</div></td>
+                                <td>2,974</td>
+                                <td><div class='ltr' title="2,289,103">2.289 M</div></td>
+                                <td><div class='ltr' title="29,924,403,926">29.924 B</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=55127657985997520">آريا - پليمر آريا ساسول</a></td>
+                                <td>109,912</td>
+                                <td><div class='pn'>0</div></td>
+                                <td>109,498</td>
+                                <td><div class='mn'>(0.37)</div></td>
+                                <td>108,673</td>
+                                <td>113,301</td>
+                                <td>2,971</td>
+                                <td><div class='ltr' title="1,072,407">1.072 M</div></td>
+                                <td><div class='ltr' title="117,869,991,980">117.870 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12674,7 +12674,7 @@
 
             <span id="IfbTab2Part2">
                 <!--0-->
-                <script>                F2_ChartIndexLastDay = '90000,19235.63;90500,19234.88;91000,19237.87;91500,19236.90;92000,19235.80;92500,19236.57;93000,19236.73;93500,19235.07;94000,19229.02;94500,19223.05;95000,19219.11;95500,19214.31;100000,19206.82;100500,19197.57;101000,19192.06;101500,19188.24;102000,19187.01;102500,19184.91;103000,19180.77;103500,19177.42;104000,19174.77;104500,19172.32;105000,19169.86;105500,19166.54;110000,19164.47;110500,19161.48;111000,19159.84;111500,19158.73;112000,19157.93;112500,19156.52;113000,19155.11;113500,19152.76;114000,19150.74;114500,19149.02;115000,19146.54;115500,19144.97;120000,19144.19;120500,19142.23;121000,19141.23;121500,19139.47;122000,19138.04;122500,19137.94;123000,19135.05'; F2_ChartIndex3Month = '20210906,22765;20210907,22666;20210908,22768;20210911,22811;20210912,22397;20210913,22130;20210914,22246;20210915,21997;20210918,21468;20210919,21146;20210920,21166;20210921,20722;20210922,20564;20210925,20858;20210926,20806;20210928,20859;20210929,20905;20211002,21302;20211003,21320;20211004,21372;20211006,21331;20211009,20980;20211010,20782;20211011,20834;20211012,20484;20211013,20068;20211016,20557;20211017,20414;20211018,20306;20211019,20379;20211020,20247;20211023,19957;20211025,19676;20211026,19671;20211027,19808;20211030,19609;20211031,19231;20211101,19401;20211102,19542;20211103,19853;20211106,20360;20211107,20232;20211108,20350;20211109,20573;20211110,20647;20211113,20468;20211114,20530;20211115,20288;20211116,20253;20211117,20243;20211120,19988;20211121,20018;20211122,20187;20211123,20150;20211124,19968;20211127,19626;20211128,19494;20211129,19504;20211130,19460;20211201,19236'; F1_ChartIndexLastDay = '90000,1340071.91;90500,1341356.07;91000,1341931.39;91500,1342360.13;92000,1342506.57;92500,1342627.95;93000,1342698.36;93500,1342585.88;94000,1342351.75;94500,1341992.18;95000,1341536.97;95500,1340924.78;100000,1340227.69;100500,1339535.63;101000,1338848.69;101500,1338239.89;102000,1337893.09;102500,1337538.20;103000,1337117.75;103500,1336697.42;104000,1336321.46;104500,1336089.73;105000,1335917.83;105500,1335793.99;110000,1335659.07;110500,1335544.77;111000,1335420.58;111500,1335368.58;112000,1335265.81;112500,1335153.38;113000,1335047.16;113500,1334944.44;114000,1334794.81;114500,1334688.21;115000,1334628.92;115500,1334445.29;120000,1334310.63;120500,1334176.91;121000,1334042.46;121500,1333956.92;122000,1333869.09;122500,1334341.92;123000,1334734.72'; F1_ChartIndexLastDay2 = '90000,367561.05;90500,367619.66;91000,367783.59;91500,367832.34;92000,367785.76;92500,367729.23;93000,367625.10;93500,367496.52;94000,367352.87;94500,367171.94;95000,366937.57;95500,366696.77;100000,366411.40;100500,366122.32;101000,365840.36;101500,365552.57;102000,365404.22;102500,365265.24;103000,365076.83;103500,364881.90;104000,364699.35;104500,364577.46;105000,364472.27;105500,364376.13;110000,364289.91;110500,364222.13;111000,364165.19;111500,364096.02;112000,364007.56;112500,363938.87;113000,363859.58;113500,363780.69;114000,363692.54;114500,363606.49;115000,363555.00;115500,363465.57;120000,363398.55;120500,363271.03;121000,363178.57;121500,363110.07;122000,363044.15;122500,362975.43;123000,362908.32';</script>
+                <script>                F2_ChartIndexLastDay = '90000,19235.63;90500,19234.88;91000,19237.87;91500,19236.90;92000,19235.80;92500,19236.57;93000,19236.73;93500,19235.07;94000,19229.02;94500,19223.05;95000,19219.11;95500,19214.31;100000,19206.82;100500,19197.57;101000,19192.06;101500,19188.24;102000,19187.01;102500,19184.91;103000,19180.77;103500,19177.42;104000,19174.77;104500,19172.32;105000,19169.86;105500,19166.54;110000,19164.47;110500,19161.48;111000,19159.84;111500,19158.73;112000,19157.93;112500,19156.52;113000,19155.11;113500,19152.76;114000,19150.74;114500,19149.02;115000,19146.54;115500,19144.97;120000,19144.19;120500,19142.23;121000,19141.23;121500,19139.47;122000,19138.04'; F2_ChartIndex3Month = '20210906,22765;20210907,22666;20210908,22768;20210911,22811;20210912,22397;20210913,22130;20210914,22246;20210915,21997;20210918,21468;20210919,21146;20210920,21166;20210921,20722;20210922,20564;20210925,20858;20210926,20806;20210928,20859;20210929,20905;20211002,21302;20211003,21320;20211004,21372;20211006,21331;20211009,20980;20211010,20782;20211011,20834;20211012,20484;20211013,20068;20211016,20557;20211017,20414;20211018,20306;20211019,20379;20211020,20247;20211023,19957;20211025,19676;20211026,19671;20211027,19808;20211030,19609;20211031,19231;20211101,19401;20211102,19542;20211103,19853;20211106,20360;20211107,20232;20211108,20350;20211109,20573;20211110,20647;20211113,20468;20211114,20530;20211115,20288;20211116,20253;20211117,20243;20211120,19988;20211121,20018;20211122,20187;20211123,20150;20211124,19968;20211127,19626;20211128,19494;20211129,19504;20211130,19460;20211201,19236'; F1_ChartIndexLastDay = '90000,1340071.91;90500,1341356.07;91000,1341931.39;91500,1342360.13;92000,1342506.57;92500,1342627.95;93000,1342698.36;93500,1342585.88;94000,1342351.75;94500,1341992.18;95000,1341536.97;95500,1340924.78;100000,1340227.69;100500,1339535.63;101000,1338848.69;101500,1338239.89;102000,1337893.09;102500,1337538.20;103000,1337117.75;103500,1336697.42;104000,1336321.46;104500,1336089.73;105000,1335917.83;105500,1335793.99;110000,1335659.07;110500,1335544.77;111000,1335420.58;111500,1335368.58;112000,1335265.81;112500,1335153.38;113000,1335047.16;113500,1334944.44;114000,1334794.81;114500,1334688.21;115000,1334628.92;115500,1334445.29;120000,1334310.63;120500,1334176.91;121000,1334042.46;121500,1333956.92;122000,1333869.09'; F1_ChartIndexLastDay2 = '90000,367561.05;90500,367619.66;91000,367783.59;91500,367832.34;92000,367785.76;92500,367729.23;93000,367625.10;93500,367496.52;94000,367352.87;94500,367171.94;95000,366937.57;95500,366696.77;100000,366411.40;100500,366122.32;101000,365840.36;101500,365552.57;102000,365404.22;102500,365265.24;103000,365076.83;103500,364881.90;104000,364699.35;104500,364577.46;105000,364472.27;105500,364376.13;110000,364289.91;110500,364222.13;111000,364165.19;111500,364096.02;112000,364007.56;112500,363938.87;113000,363859.58;113500,363780.69;114000,363692.54;114500,363606.49;115000,363555.00;115500,363465.57;120000,363398.55;120500,363271.03;121000,363178.57;121500,363110.07;122000,363044.15';</script>
                 <div class="box1 yellow tbl z1_4 h210">
                     <div onclick="jo.BoClk('2MarketValue')" class="header pointer" role="link">ارزش بازار اول و دوم</div>
                     <div class="content">
@@ -12744,20 +12744,20 @@
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=13235547361447092" title="پتروشيمي زاگرس">زاگرس</a></td>
-                                    <td>244,915</td>
-                                    <td><div class='pn'>13.99</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=30703140537034664" title="سنگ آهن گهرزمين">كگهر</a></td>
-                                    <td>45,794</td>
-                                    <td><div class='mn'>(11.06)</div></td>
+                                    <td>244,813</td>
+                                    <td><div class='pn'>13.55</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=58741071099161284" title="فرابورس ايران">فرابورس</a></td>
-                                    <td>17,721</td>
-                                    <td><div class='mn'>(9.49)</div></td>
+                                    <td>17,778</td>
+                                    <td><div class='mn'>(8.77)</div></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=30703140537034664" title="سنگ آهن گهرزمين">كگهر</a></td>
+                                    <td>45,871</td>
+                                    <td><div class='mn'>(7.61)</div></td>
                                 </tr>
                             
                                 <tr>
@@ -12768,20 +12768,20 @@
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=45507655586782998" title="مجتمع جهان فولاد سيرجان">فجهان</a></td>
-                                    <td>5,414</td>
-                                    <td><div class='mn'>(7.02)</div></td>
+                                    <td>5,408</td>
+                                    <td><div class='mn'>(7.45)</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66142616039907394" title="توليد نيروي برق دماوند">دماوند</a></td>
-                                    <td>22,141</td>
-                                    <td><div class='pn'>5.43</div></td>
+                                    <td>22,151</td>
+                                    <td><div class='pn'>5.53</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24644999329120295" title="اعتباري ملل">وملل</a></td>
-                                    <td>8,555</td>
-                                    <td><div class='mn'>(4.75)</div></td>
+                                    <td>8,565</td>
+                                    <td><div class='mn'>(4.57)</div></td>
                                 </tr>
                             
                                 </tbody> </table>
@@ -12820,32 +12820,32 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66315581735594751" title="توسعه سامانه ي نرم افزاري نگين">توسن</a></td>
-                                <td>22,005</td>
-                                <td><div class='pn'>4.18</div></td>
+                                <td>22,002</td>
+                                <td><div class='pn'>4.17</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=34540569618314880" title="قاسم ايران">قاسم</a></td>
-                                <td>3,354</td>
-                                <td><div class='pn'>3.81</div></td>
+                                <td>3,356</td>
+                                <td><div class='pn'>3.87</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3407806799514469" title="پتروشيمي اروميه">شاروم</a></td>
-                                <td>13,107</td>
-                                <td><div class='pn'>3.74</div></td>
+                                <td>13,073</td>
+                                <td><div class='pn'>3.47</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=6478064539164167" title="توليد و صادرات ريشمك">ريشمك</a></td>
-                                <td>33,095</td>
+                                <td>33,093</td>
                                 <td><div class='pn'>2.85</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32784604551756178" title="مجتمع صنايع لاستيك يزد">پيزد</a></td>
-                                <td>59,573</td>
-                                <td><div class='pn'>2.61</div></td>
+                                <td>59,618</td>
+                                <td><div class='pn'>2.69</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12885,14 +12885,14 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=54493234408301135" title="بيمه تجارت نو">بنو</a></td>
-                                <td>6,467</td>
-                                <td><div class='mn'>(4.86)</div></td>
+                                <td>6,466</td>
+                                <td><div class='mn'>(4.87)</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=5305844922895340" title="داروسازي آوه سينا">داوه</a></td>
-                                <td>9,885</td>
-                                <td><div class='mn'>(4.81)</div></td>
+                                <td>9,887</td>
+                                <td><div class='mn'>(4.8)</div></td>
                             </tr>
                         
                             <tr>
@@ -12902,9 +12902,9 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=69847139870135237" title="مبين وان كيش">اوان</a></td>
-                                <td>19,922</td>
-                                <td><div class='mn'>(4.65)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35178706978554988" title="نفت پاسارگاد">شپاس</a></td>
+                                <td>14,928</td>
+                                <td><div class='mn'>(4.75)</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12925,45 +12925,45 @@
                                 <tbody>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=12746730665870442" title="صنعتي بهپاك">بهپاك</a></td>
-                                <td>5,350</td>
-                                <td><div class='pn'>3.66</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35178706978554988" title="نفت پاسارگاد">شپاس</a></td>
-                                <td>15,480</td>
-                                <td><div class='pn'>3.51</div></td>
-                            </tr>
-                        
-                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=38555056423456635" title="توكا رنگ فولاد سپاهان">شتوكا</a></td>
                                 <td>13,766</td>
-                                <td><div class='pn'>3.09</div></td>
+                                <td><div class='pn'>3.1</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=60247433951600827" title="پالايش نفت لاوان">شاوان</a></td>
-                                <td>129,790</td>
-                                <td><div class='pn'>3.03</div></td>
+                                <td>128,700</td>
+                                <td><div class='pn'>2.84</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=52382684379473036" title="توليد ژلاتين كپسول ايران">دكپسول</a></td>
-                                <td>28,230</td>
-                                <td><div class='pn'>2.44</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=35178706978554988" title="نفت پاسارگاد">شپاس</a></td>
+                                <td>15,230</td>
+                                <td><div class='pn'>2.02</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=33683240001985963" title="پالايش نفت شيراز">شراز</a></td>
-                                <td>116,000</td>
-                                <td><div class='pn'>2.16</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=5516102131364383" title="شركت صنايع غذايي مينو شرق">غمينو</a></td>
+                                <td>4,698</td>
+                                <td><div class='pn'>1.91</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=5987841496184505" title="پتروشيمي تندگويان">شگويا</a></td>
-                                <td>10,579</td>
-                                <td><div class='pn'>2.09</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=12746730665870442" title="صنعتي بهپاك">بهپاك</a></td>
+                                <td>5,200</td>
+                                <td><div class='pn'>1.9</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=13243992182070788" title="دارويي ره آورد تامين">درهآور</a></td>
+                                <td>22,980</td>
+                                <td><div class='pn'>1.66</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=16422980660132735" title="محصولات كاغذي لطيف">لطيف</a></td>
+                                <td>37,890</td>
+                                <td><div class='pn'>1.57</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -12984,6 +12984,12 @@
                                 <tbody>
                         
                             <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=14800142337291217" title="صنايع فولاد آلياژي يزد">فولاي</a></td>
+                                <td>16,412</td>
+                                <td><div class='mn'>(5.89)</div></td>
+                            </tr>
+                        
+                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28253678449273505" title="كشتيراني درياي خزر">حخزر</a></td>
                                 <td>14,290</td>
                                 <td><div class='mn'>(4.65)</div></td>
@@ -12998,31 +13004,25 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46741025610365786" title="گروه سرمايه گذاري ميراث فرهنگي">سمگا</a></td>
                                 <td>12,313</td>
-                                <td><div class='mn'>(4.14)</div></td>
+                                <td><div class='mn'>(4.19)</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=16410724132711490" title="شير پاستوريزه پگاه فارس">غفارس</a></td>
-                                <td>5,840</td>
-                                <td><div class='mn'>(3.96)</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=62977319271289925" title="شركت كي بي سي">كي بي سي</a></td>
-                                <td>16,521</td>
-                                <td><div class='mn'>(3.9)</div></td>
+                                <td>5,847</td>
+                                <td><div class='mn'>(3.93)</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32784604551756178" title="مجتمع صنايع لاستيك يزد">پيزد</a></td>
-                                <td>57,310</td>
-                                <td><div class='mn'>(3.8)</div></td>
+                                <td>57,300</td>
+                                <td><div class='mn'>(3.89)</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=14800142337291217" title="صنايع فولاد آلياژي يزد">فولاي</a></td>
-                                <td>16,780</td>
-                                <td><div class='mn'>(3.66)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=53999651992586159" title="سرمايه گذاري مسكن پرديس">ثپرديس</a></td>
+                                <td>4,148</td>
+                                <td><div class='mn'>(3.65)</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -13069,17 +13069,9 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66818022341772870" title="صندوق س.اعتماد آفرين پارسيان-د">اعتماد</a></td>
                                 <td>40,406</td>
-                                <td><div class='ltr' title="17,545,920">17.546 M</div></td>
-                                <td><div class='ltr' title="708,960,443,520">708.960 B</div></td>
-                                <td>199</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24869832924911721" title="صندوق س.مشترك آسمان اميد -د">آساميد</a></td>
-                                <td>13,551</td>
-                                <td><div class='ltr' title="20,072,840">20.073 M</div></td>
-                                <td><div class='ltr' title="272,007,054,840">272.007 B</div></td>
-                                <td>205</td>
+                                <td><div class='ltr' title="13,899,310">13.899 M</div></td>
+                                <td><div class='ltr' title="561,615,519,860">561.616 B</div></td>
+                                <td>162</td>
                             </tr>
                         
                             <tr>
@@ -13088,6 +13080,14 @@
                                 <td><div class='ltr' title="20,000,000">20.000 M</div></td>
                                 <td><div class='ltr' title="270,920,000,000">270.920 B</div></td>
                                 <td>200</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24869832924911721" title="صندوق س.مشترك آسمان اميد -د">آساميد</a></td>
+                                <td>13,551</td>
+                                <td><div class='ltr' title="18,484,101">18.484 M</div></td>
+                                <td><div class='ltr' title="250,478,052,651">250.478 B</div></td>
+                                <td>189</td>
                             </tr>
                         
                             <tr>
@@ -13107,11 +13107,11 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=40348118513018291" title="مرابحه عام دولت5-ش.خ0302">اراد50</a></td>
-                                <td>1,000,000</td>
-                                <td>200,000</td>
-                                <td><div class='ltr' title="200,000,000,000">200.000 B</div></td>
-                                <td>10</td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=57761388729898548" title="صندوق انديشه ورزان صباتامين -د">اوصتا</a></td>
+                                <td>20,717</td>
+                                <td><div class='ltr' title="9,579,825">9.580 M</div></td>
+                                <td><div class='ltr' title="198,465,234,525">198.465 B</div></td>
+                                <td>96</td>
                             </tr>
                         
                             <tr>
@@ -13155,9 +13155,9 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46741025610365786" title="گروه سرمايه گذاري ميراث فرهنگي">سمگا</a></td>
                                 <td>12,313</td>
-                                <td><div class='ltr' title="135,499,118">135.499 M</div></td>
-                                <td><div class='ltr' title="1,668,400,639,934">1,668.401 B</div></td>
-                                <td>3081</td>
+                                <td><div class='ltr' title="135,218,501">135.219 M</div></td>
+                                <td><div class='ltr' title="1,664,945,402,813">1,664.945 B</div></td>
+                                <td>3079</td>
                             </tr>
                         
                             <tr>
@@ -13171,8 +13171,8 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66818022341772870" title="صندوق س.اعتماد آفرين پارسيان-د">اعتماد</a></td>
                                 <td>40,409</td>
-                                <td><div class='ltr' title="7,494,790">7.495 M</div></td>
-                                <td><div class='ltr' title="302,856,969,110">302.857 B</div></td>
+                                <td><div class='ltr' title="7,511,310">7.511 M</div></td>
+                                <td><div class='ltr' title="303,524,525,790">303.525 B</div></td>
                                 <td>80</td>
                             </tr>
                         
@@ -13187,9 +13187,9 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=63830424809501048" title="آتيه داده پرداز">اپرداز</a></td>
                                 <td>27,115</td>
-                                <td><div class='ltr' title="3,901,330">3.901 M</div></td>
-                                <td><div class='ltr' title="105,784,562,950">105.785 B</div></td>
-                                <td>186</td>
+                                <td><div class='ltr' title="3,886,049">3.886 M</div></td>
+                                <td><div class='ltr' title="105,370,218,635">105.370 B</div></td>
+                                <td>180</td>
                             </tr>
                         
                             <tr>
@@ -17168,32 +17168,26 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=13235547361447092" title="پتروشيمي زاگرس">زاگرس</a></td>
-                                <td><div class='ltr' title="587,796,000,000,000">587,796 B</div></td>
-                                <td><div class='ltr' title="7,812,000,000,000">7,812.000 B</div></td>
+                                <td><div class='ltr' title="587,551,200,000,000">587,551 B</div></td>
+                                <td><div class='ltr' title="7,567,200,000,000">7,567.200 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66142616039907394" title="توليد نيروي برق دماوند">دماوند</a></td>
-                                <td><div class='ltr' title="122,218,320,000,000">122,218 B</div></td>
-                                <td><div class='ltr' title="3,030,480,000,000">3,030.480 B</div></td>
+                                <td><div class='ltr' title="122,273,520,000,000">122,274 B</div></td>
+                                <td><div class='ltr' title="3,085,680,000,000">3,085.680 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66315581735594751" title="توسعه سامانه ي نرم افزاري نگين">توسن</a></td>
-                                <td><div class='ltr' title="44,890,200,000,000">44,890 B</div></td>
-                                <td><div class='ltr' title="1,801,320,000,000">1,801.320 B</div></td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=60247433951600827" title="پالايش نفت لاوان">شاوان</a></td>
-                                <td><div class='ltr' title="144,123,718,993,600">144,124 B</div></td>
-                                <td><div class='ltr' title="1,763,156,107,200">1,763.156 B</div></td>
+                                <td><div class='ltr' title="44,884,080,000,000">44,884 B</div></td>
+                                <td><div class='ltr' title="1,795,200,000,000">1,795.200 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=51971068201094874" title="بيمه پاسارگاد">بپاس</a></td>
-                                <td><div class='ltr' title="1,300,591,404,000,000">1,300,591 B</div></td>
-                                <td><div class='ltr' title="1,071,630,000,000">1,071.630 B</div></td>
+                                <td><div class='ltr' title="1,300,652,640,000,000">1,300,653 B</div></td>
+                                <td><div class='ltr' title="1,132,866,000,000">1,132.866 B</div></td>
                             </tr>
                         
                             <tr>
@@ -17204,8 +17198,14 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32784604551756178" title="مجتمع صنايع لاستيك يزد">پيزد</a></td>
-                                <td><div class='ltr' title="30,382,230,000,000">30,382 B</div></td>
-                                <td><div class='ltr' title="772,650,000,000">772.650 B</div></td>
+                                <td><div class='ltr' title="30,405,180,000,000">30,405 B</div></td>
+                                <td><div class='ltr' title="795,600,000,000">795.600 B</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=60247433951600827" title="پالايش نفت لاوان">شاوان</a></td>
+                                <td><div class='ltr' title="143,086,635,602,400">143,087 B</div></td>
+                                <td><div class='ltr' title="726,072,716,000">726.073 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -17238,50 +17238,50 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66818022341772870" title="صندوق س.اعتماد آفرين پارسيان-د">اعتماد</a></td>
-                                <td>2,150</td>
-                                <td><div class='ltr' title="28,703,450">28.703 M</div></td>
-                                <td><div class='ltr' title="1,159,815,615,400">1,159.816 B</div></td>
+                                <td>2,025</td>
+                                <td><div class='ltr' title="26,426,440">26.426 M</div></td>
+                                <td><div class='ltr' title="1,067,809,737,730">1,067.810 B</div></td>
                                 <td><div class='ltr' title="40,407,000,000,000">40,407 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26780282166315918" title="صندوق س. ثبات ويستا -د">ثبات</a></td>
-                                <td>749</td>
-                                <td><div class='ltr' title="47,826,785">47.827 M</div></td>
-                                <td><div class='ltr' title="502,372,609,760">502.373 B</div></td>
+                                <td>748</td>
+                                <td><div class='ltr' title="47,824,785">47.825 M</div></td>
+                                <td><div class='ltr' title="502,351,599,760">502.352 B</div></td>
                                 <td><div class='ltr' title="4,201,600,000,000">4,202 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66315581735594751" title="توسعه سامانه ي نرم افزاري نگين">توسن</a></td>
-                                <td>12,653</td>
-                                <td><div class='ltr' title="20,000,157">20.000 M</div></td>
-                                <td><div class='ltr' title="440,109,106,731">440.109 B</div></td>
-                                <td><div class='ltr' title="44,890,200,000,000">44,890 B</div></td>
+                                <td>12,459</td>
+                                <td><div class='ltr' title="19,571,885">19.572 M</div></td>
+                                <td><div class='ltr' title="430,610,890,315">430.611 B</div></td>
+                                <td><div class='ltr' title="44,884,080,000,000">44,884 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24869832924911721" title="صندوق س.مشترك آسمان اميد -د">آساميد</a></td>
-                                <td>604</td>
-                                <td><div class='ltr' title="25,753,791">25.754 M</div></td>
-                                <td><div class='ltr' title="349,014,007,359">349.014 B</div></td>
+                                <td>598</td>
+                                <td><div class='ltr' title="25,730,938">25.731 M</div></td>
+                                <td><div class='ltr' title="348,704,316,764">348.704 B</div></td>
                                 <td><div class='ltr' title="1,355,200,000,000">1,355 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=51971068201094874" title="بيمه پاسارگاد">بپاس</a></td>
-                                <td>950</td>
-                                <td><div class='ltr' title="8,153,478">8.153 M</div></td>
-                                <td><div class='ltr' title="346,341,433,519">346.341 B</div></td>
-                                <td><div class='ltr' title="1,300,591,404,000,000">1,300,591 B</div></td>
+                                <td>909</td>
+                                <td><div class='ltr' title="8,020,461">8.020 M</div></td>
+                                <td><div class='ltr' title="340,706,991,373">340.707 B</div></td>
+                                <td><div class='ltr' title="1,300,652,640,000,000">1,300,653 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=71758511001096824" title="صنعتي مينو">غصينو</a></td>
-                                <td>2,713</td>
-                                <td><div class='ltr' title="14,321,940">14.322 M</div></td>
-                                <td><div class='ltr' title="322,823,225,313">322.823 B</div></td>
-                                <td><div class='ltr' title="225,400,000,000,000">225,400 B</div></td>
+                                <td>2,602</td>
+                                <td><div class='ltr' title="14,115,805">14.116 M</div></td>
+                                <td><div class='ltr' title="318,256,852,311">318.257 B</div></td>
+                                <td><div class='ltr' title="225,460,000,000,000">225,460 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -17306,17 +17306,17 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=50792786683910016" title="س. توسعه و عمران استان كرمان">كرمان</a></td>
-                                <td>5,710</td>
-                                <td><div class='ltr' title="181,556,610">181.557 M</div></td>
-                                <td><div class='ltr' title="163,635,849,343">163.636 B</div></td>
-                                <td><div class='ltr' title="38,400,780,378,000">38,401 B</div></td>
+                                <td>5,292</td>
+                                <td><div class='ltr' title="165,026,046">165.026 M</div></td>
+                                <td><div class='ltr' title="148,831,292,640">148.831 B</div></td>
+                                <td><div class='ltr' title="38,443,400,556,000">38,443 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=26780282166315918" title="صندوق س. ثبات ويستا -د">ثبات</a></td>
-                                <td>749</td>
-                                <td><div class='ltr' title="47,826,785">47.827 M</div></td>
-                                <td><div class='ltr' title="502,372,609,760">502.373 B</div></td>
+                                <td>748</td>
+                                <td><div class='ltr' title="47,824,785">47.825 M</div></td>
+                                <td><div class='ltr' title="502,351,599,760">502.352 B</div></td>
                                 <td><div class='ltr' title="4,201,600,000,000">4,202 B</div></td>
                             </tr>
                         
@@ -17330,34 +17330,34 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=9211775239375291" title="سهامي ذوب آهن  اصفهان">ذوب</a></td>
-                                <td>2,800</td>
-                                <td><div class='ltr' title="36,751,316">36.751 M</div></td>
-                                <td><div class='ltr' title="124,760,024,031">124.760 B</div></td>
+                                <td>2,533</td>
+                                <td><div class='ltr' title="31,719,144">31.719 M</div></td>
+                                <td><div class='ltr' title="107,675,331,634">107.675 B</div></td>
                                 <td><div class='ltr' title="208,804,513,390,830">208,805 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=66818022341772870" title="صندوق س.اعتماد آفرين پارسيان-د">اعتماد</a></td>
-                                <td>2,150</td>
-                                <td><div class='ltr' title="28,703,450">28.703 M</div></td>
-                                <td><div class='ltr' title="1,159,815,615,400">1,159.816 B</div></td>
+                                <td>2,025</td>
+                                <td><div class='ltr' title="26,426,440">26.426 M</div></td>
+                                <td><div class='ltr' title="1,067,809,737,730">1,067.810 B</div></td>
                                 <td><div class='ltr' title="40,407,000,000,000">40,407 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24869832924911721" title="صندوق س.مشترك آسمان اميد -د">آساميد</a></td>
-                                <td>604</td>
-                                <td><div class='ltr' title="25,753,791">25.754 M</div></td>
-                                <td><div class='ltr' title="349,014,007,359">349.014 B</div></td>
+                                <td>598</td>
+                                <td><div class='ltr' title="25,730,938">25.731 M</div></td>
+                                <td><div class='ltr' title="348,704,316,764">348.704 B</div></td>
                                 <td><div class='ltr' title="1,355,200,000,000">1,355 B</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=45507655586782998" title="مجتمع جهان فولاد سيرجان">فجهان</a></td>
-                                <td>7,254</td>
-                                <td><div class='ltr' title="21,583,777">21.584 M</div></td>
-                                <td><div class='ltr' title="116,864,570,838">116.865 B</div></td>
-                                <td><div class='ltr' title="216,560,000,000,000">216,560 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=37607985049326858" title="كشاورزي و دامپروري بينالود">زبينا2</a></td>
+                                <td>1</td>
+                                <td><div class='ltr' title="21,138,319">21.138 M</div></td>
+                                <td><div class='ltr' title="43,249,000,674">43.249 B</div></td>
+                                <td><div class='ltr' title="7,447,503,423,954">7,448 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -17379,15 +17379,15 @@
                                 <tbody>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=30703140537034664" title="سنگ آهن گهرزمين">كگهر</a></td>
-                                <td><div class='ltr' title="1,144,850,000,000,000">1,144,850 B</div></td>
-                                <td><div class='ltr' title="6,175,000,000,000">6,175.000 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=58741071099161284" title="فرابورس ايران">فرابورس</a></td>
+                                <td><div class='ltr' title="124,446,000,000,000">124,446 B</div></td>
+                                <td><div class='ltr' title="4,900,000,000,000">4,900.000 B</div></td>
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=58741071099161284" title="فرابورس ايران">فرابورس</a></td>
-                                <td><div class='ltr' title="124,047,000,000,000">124,047 B</div></td>
-                                <td><div class='ltr' title="5,299,000,000,000">5,299.000 B</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=30703140537034664" title="سنگ آهن گهرزمين">كگهر</a></td>
+                                <td><div class='ltr' title="1,146,775,000,000,000">1,146,775 B</div></td>
+                                <td><div class='ltr' title="4,250,000,000,000">4,250.000 B</div></td>
                             </tr>
                         
                             <tr>
@@ -17398,26 +17398,26 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=45507655586782998" title="مجتمع جهان فولاد سيرجان">فجهان</a></td>
-                                <td><div class='ltr' title="216,560,000,000,000">216,560 B</div></td>
-                                <td><div class='ltr' title="3,920,000,000,000">3,920.000 B</div></td>
+                                <td><div class='ltr' title="216,320,000,000,000">216,320 B</div></td>
+                                <td><div class='ltr' title="4,160,000,000,000">4,160.000 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=24644999329120295" title="اعتباري ملل">وملل</a></td>
-                                <td><div class='ltr' title="85,550,000,000,000">85,550 B</div></td>
-                                <td><div class='ltr' title="2,650,000,000,000">2,650.000 B</div></td>
+                                <td><div class='ltr' title="85,650,000,000,000">85,650 B</div></td>
+                                <td><div class='ltr' title="2,550,000,000,000">2,550.000 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=38084304113529336" title="بهمن  ديزل">خديزل</a></td>
-                                <td><div class='ltr' title="52,791,000,000,000">52,791 B</div></td>
-                                <td><div class='ltr' title="2,435,000,000,000">2,435.000 B</div></td>
+                                <td><div class='ltr' title="52,980,000,000,000">52,980 B</div></td>
+                                <td><div class='ltr' title="2,246,000,000,000">2,246.000 B</div></td>
                             </tr>
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22275596386264204" title="بيمه كوثر">كوثر</a></td>
-                                <td><div class='ltr' title="66,898,491,316,440">66,898 B</div></td>
-                                <td><div class='ltr' title="2,245,709,072,460">2,245.709 B</div></td>
+                                <td><div class='ltr' title="67,016,686,530,780">67,017 B</div></td>
+                                <td><div class='ltr' title="2,127,513,858,120">2,127.514 B</div></td>
                             </tr>
                         
                             </tbody> </table>
@@ -17457,61 +17457,61 @@
                                     <td><div class='mn'>(5)</div></td>
                                     <td>3,346</td>
                                     <td>3,346</td>
-                                    <td>680</td>
-                                    <td><div class='ltr' title="20,850,641">20.851 M</div></td>
-                                    <td><div class='ltr' title="69,766,244,786">69.766 B</div></td>
+                                    <td>675</td>
+                                    <td><div class='ltr' title="20,816,602">20.817 M</div></td>
+                                    <td><div class='ltr' title="69,652,350,292">69.652 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=70391097626818082">گشان - توسعه بين المللي پديده شانديز</a></td>
-                                    <td>22,717</td>
-                                    <td><div class='mn'>(0.76)</div></td>
+                                    <td>22,728</td>
+                                    <td><div class='mn'>(0.71)</div></td>
                                     <td>22,205</td>
                                     <td><div class='mn'>(3)</div></td>
                                     <td>22,205</td>
                                     <td>22,205</td>
-                                    <td>84</td>
-                                    <td>150,449</td>
-                                    <td><div class='ltr' title="3,340,720,045">3.341 B</div></td>
+                                    <td>80</td>
+                                    <td>141,099</td>
+                                    <td><div class='ltr' title="3,133,103,295">3.133 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=56429431740318486">شلرد - كود شيميايي اوره لردگان</a></td>
-                                    <td>11,584</td>
-                                    <td><div class='mn'>(1.86)</div></td>
-                                    <td>11,731</td>
-                                    <td><div class='mn'>(0.61)</div></td>
+                                    <td>11,580</td>
+                                    <td><div class='mn'>(1.89)</div></td>
+                                    <td>11,620</td>
+                                    <td><div class='mn'>(1.55)</div></td>
                                     <td>11,449</td>
                                     <td>11,950</td>
-                                    <td>2,387</td>
-                                    <td><div class='ltr' title="19,980,508">19.981 M</div></td>
-                                    <td><div class='ltr' title="231,451,377,840">231.451 B</div></td>
+                                    <td>2,305</td>
+                                    <td><div class='ltr' title="19,296,672">19.297 M</div></td>
+                                    <td><div class='ltr' title="223,458,423,612">223.458 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22956708386610464">خودكفا - اقتصادي و خودكفايي آزادگان</a></td>
-                                    <td>8,570</td>
-                                    <td><div class='pn'>0.81</div></td>
-                                    <td>8,450</td>
-                                    <td><div class='mn'>(0.6)</div></td>
+                                    <td>8,578</td>
+                                    <td><div class='pn'>0.91</div></td>
+                                    <td>8,370</td>
+                                    <td><div class='mn'>(1.54)</div></td>
                                     <td>8,297</td>
                                     <td>8,756</td>
-                                    <td>1,665</td>
-                                    <td><div class='ltr' title="9,212,374">9.212 M</div></td>
-                                    <td><div class='ltr' title="78,953,872,902">78.954 B</div></td>
+                                    <td>1,601</td>
+                                    <td><div class='ltr' title="8,708,767">8.709 M</div></td>
+                                    <td><div class='ltr' title="74,701,848,824">74.702 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=7920014658832193">وگردش - بانك گردشگري</a></td>
-                                    <td>12,148</td>
-                                    <td><div class='mn'>(0.82)</div></td>
+                                    <td>12,158</td>
+                                    <td><div class='mn'>(0.73)</div></td>
                                     <td>11,881</td>
                                     <td><div class='mn'>(3)</div></td>
                                     <td>11,881</td>
                                     <td>12,160</td>
-                                    <td>164</td>
-                                    <td><div class='ltr' title="1,686,020">1.686 M</div></td>
-                                    <td><div class='ltr' title="20,053,365,164">20.053 B</div></td>
+                                    <td>159</td>
+                                    <td><div class='ltr' title="1,524,683">1.525 M</div></td>
+                                    <td><div class='ltr' title="18,136,520,267">18.137 B</div></td>
                                 </tr>
                             
                                 <tr>
@@ -17522,9 +17522,9 @@
                                     <td><div class='mn'>(2.99)</div></td>
                                     <td>6,516</td>
                                     <td>6,689</td>
-                                    <td>306</td>
-                                    <td><div class='ltr' title="2,783,974">2.784 M</div></td>
-                                    <td><div class='ltr' title="18,272,867,331">18.273 B</div></td>
+                                    <td>299</td>
+                                    <td><div class='ltr' title="2,732,711">2.733 M</div></td>
+                                    <td><div class='ltr' title="17,938,837,623">17.939 B</div></td>
                                 </tr>
                             
                                 <tr>
@@ -17535,9 +17535,9 @@
                                     <td><div class='mn'>(2.99)</div></td>
                                     <td>2,307</td>
                                     <td>2,307</td>
-                                    <td>91</td>
-                                    <td><div class='ltr' title="1,044,158">1.044 M</div></td>
-                                    <td><div class='ltr' title="2,408,872,506">2.409 B</div></td>
+                                    <td>85</td>
+                                    <td><div class='ltr' title="1,008,206">1.008 M</div></td>
+                                    <td><div class='ltr' title="2,325,931,242">2.326 B</div></td>
                                 </tr>
                             
                                 </tbody> </table>
@@ -17569,65 +17569,26 @@
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=44296315953738727">فاهواز - نورد و لوله اهواز</a></td>
                                     <td>6,112</td>
                                     <td><div class='pn'>0.2</div></td>
-                                    <td>6,032</td>
-                                    <td><div class='mn'>(1.11)</div></td>
+                                    <td>6,012</td>
+                                    <td><div class='mn'>(1.44)</div></td>
                                     <td>5,997</td>
                                     <td>6,213</td>
-                                    <td>371</td>
-                                    <td><div class='ltr' title="4,287,791">4.288 M</div></td>
-                                    <td><div class='ltr' title="26,207,529,824">26.208 B</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28251956446987982">شمواد - توليد مواداوليه الياف مصنوعي</a></td>
-                                    <td>46,308</td>
-                                    <td><div class='mn'>(2)</div></td>
-                                    <td>46,308</td>
-                                    <td><div class='mn'>(2)</div></td>
-                                    <td>46,308</td>
-                                    <td>46,308</td>
-                                    <td>91</td>
-                                    <td>178,303</td>
-                                    <td><div class='ltr' title="8,256,855,324">8.257 B</div></td>
+                                    <td>370</td>
+                                    <td><div class='ltr' title="4,285,955">4.286 M</div></td>
+                                    <td><div class='ltr' title="26,196,455,072">26.196 B</div></td>
                                 </tr>
                             
                                 <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=18346219759153870">شصفها - پتروشيمي‌ اصفهان‌</a></td>
-                                    <td>114,343</td>
+                                    <td>114,338</td>
                                     <td><div class='pn'>0.85</div></td>
-                                    <td>114,500</td>
-                                    <td><div class='pn'>0.99</div></td>
+                                    <td>113,250</td>
+                                    <td><div class='mn'>(0.11)</div></td>
                                     <td>113,200</td>
                                     <td>115,630</td>
-                                    <td>138</td>
-                                    <td>81,970</td>
-                                    <td><div class='ltr' title="9,409,506,876">9.410 B</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3173544097113770">شستان - پتروشيمي گلستان</a></td>
-                                    <td>3,737</td>
-                                    <td><div class='pn'>0.48</div></td>
-                                    <td>3,792</td>
-                                    <td><div class='pn'>1.96</div></td>
-                                    <td>3,655</td>
-                                    <td>3,793</td>
-                                    <td>77</td>
-                                    <td>482,219</td>
-                                    <td><div class='ltr' title="1,818,197,820">1.818 B</div></td>
-                                </tr>
-                            
-                                <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3050342257199174">قنقش - قند نقش جهان</a></td>
-                                    <td>115,455</td>
-                                    <td><div class='mn'>(0.93)</div></td>
-                                    <td>114,210</td>
-                                    <td><div class='mn'>(2)</div></td>
-                                    <td>114,210</td>
-                                    <td>118,870</td>
-                                    <td>205</td>
-                                    <td>123,096</td>
-                                    <td><div class='ltr' title="14,212,042,129">14.212 B</div></td>
+                                    <td>137</td>
+                                    <td>81,470</td>
+                                    <td><div class='ltr' title="9,352,256,876">9.352 B</div></td>
                                 </tr>
                             
                                 <tr>
@@ -17644,6 +17605,45 @@
                                 </tr>
                             
                                 <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28251956446987982">شمواد - توليد مواداوليه الياف مصنوعي</a></td>
+                                    <td>46,308</td>
+                                    <td><div class='mn'>(2)</div></td>
+                                    <td>46,308</td>
+                                    <td><div class='mn'>(2)</div></td>
+                                    <td>46,308</td>
+                                    <td>46,308</td>
+                                    <td>91</td>
+                                    <td>178,303</td>
+                                    <td><div class='ltr' title="8,256,855,324">8.257 B</div></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3050342257199174">قنقش - قند نقش جهان</a></td>
+                                    <td>115,527</td>
+                                    <td><div class='mn'>(0.87)</div></td>
+                                    <td>116,490</td>
+                                    <td><div class='mn'>(0.04)</div></td>
+                                    <td>114,210</td>
+                                    <td>118,870</td>
+                                    <td>188</td>
+                                    <td>111,866</td>
+                                    <td><div class='ltr' title="12,923,514,679">12.924 B</div></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=3173544097113770">شستان - پتروشيمي گلستان</a></td>
+                                    <td>3,724</td>
+                                    <td><div class='pn'>0.13</div></td>
+                                    <td>3,740</td>
+                                    <td><div class='pn'>0.56</div></td>
+                                    <td>3,655</td>
+                                    <td>3,789</td>
+                                    <td>55</td>
+                                    <td>220,190</td>
+                                    <td><div class='ltr' title="825,039,655">825.040 M</div></td>
+                                </tr>
+                            
+                                <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=40650252484299134">ثاژن - سخت آژند</a></td>
                                     <td>4,920</td>
                                     <td><div class='mn'>(1.72)</div></td>
@@ -17651,9 +17651,9 @@
                                     <td><div class='mn'>(4)</div></td>
                                     <td>4,806</td>
                                     <td>4,806</td>
-                                    <td>46</td>
-                                    <td>429,393</td>
-                                    <td><div class='ltr' title="2,063,662,758">2.064 B</div></td>
+                                    <td>45</td>
+                                    <td>428,253</td>
+                                    <td><div class='ltr' title="2,058,183,918">2.058 B</div></td>
                                 </tr>
                             
                                 </tbody> </table>
@@ -17925,11 +17925,11 @@
                         
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32276570027622360">اختيارخ فرابورس-19000-14001218 (ضفرابورس1200)</a></td>
-                                <td>2,029</td>
-                                <td><div class='mn'>(36.19)</div></td>
-                                <td>5</td>
-                                <td>14</td>
-                                <td><div class='ltr' title="28,400,000">28.400 M</div></td>
+                                <td>2,000</td>
+                                <td><div class='mn'>(37.11)</div></td>
+                                <td>4</td>
+                                <td>10</td>
+                                <td><div class='ltr' title="20,000,000">20.000 M</div></td>
                             </tr>
                         
                             <tr>
@@ -17948,15 +17948,6 @@
                                 <td>1</td>
                                 <td>1</td>
                                 <td>100,000</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46751736375942017">اختيارخ شراز-109000-14001208 (ضشراز1201)</a></td>
-                                <td>24,000</td>
-                                <td><div class='pn'>2399900</div></td>
-                                <td>1</td>
-                                <td>5</td>
-                                <td><div class='ltr' title="120,000,000">120.000 M</div></td>
                             </tr>
                         
                             </tbody> </table>
