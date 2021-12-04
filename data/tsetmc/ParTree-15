@@ -12489,6 +12489,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/13 16:56</td>
+                                <td class='pointer' onclick='jo.TseMsg(114680)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/13 14:38</td>
                                 <td class='pointer' onclick='jo.TseMsg(114679)'>پرداخت سود در نماد معاملاتي (صايند1)</td>
                             </tr>
@@ -12521,11 +12526,6 @@
                             <tr>
                                 <td class='ltr'>00/9/13 11:53</td>
                                 <td class='pointer' onclick='jo.TseMsg(114670)'>نصاب اشخاص حقوقي در پذيره نويسي نماد معاملاتي (اتكا تهران1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/13 11:51</td>
-                                <td class='pointer' onclick='jo.TseMsg(114669)'>تمديد دوره ثبت سفارش در نماد معاملاتي (اتكا تهران1)	</td>
                             </tr>
                         
                             </tbody> </table>
@@ -17933,21 +17933,21 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=27593123335786733">اختيارخ ذوب-4500-14000917 (ضذوب904)</a></td>
-                                <td>100</td>
-                                <td><div class='pn'>9900</div></td>
-                                <td>1</td>
-                                <td>1</td>
-                                <td>100,000</td>
-                            </tr>
-                        
-                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=46751736375942017">اختيارخ شراز-109000-14001208 (ضشراز1201)</a></td>
                                 <td>24,000</td>
                                 <td><div class='pn'>2399900</div></td>
                                 <td>1</td>
                                 <td>5</td>
                                 <td><div class='ltr' title="120,000,000">120.000 M</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=27593123335786733">اختيارخ ذوب-4500-14000917 (ضذوب904)</a></td>
+                                <td>100</td>
+                                <td><div class='pn'>9900</div></td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>100,000</td>
                             </tr>
                         
                             </tbody> </table>
