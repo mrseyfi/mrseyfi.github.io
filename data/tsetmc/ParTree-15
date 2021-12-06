@@ -65,6 +65,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/15 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(114731)'>توقف نماد (مرقام1) به علت افشاي اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/14 14:48</td>
                                 <td class='pointer' onclick='jo.TseMsg(114726)'>توقف نماد (وليز1) به علت افشاي اطلاعات با اهميت گروه ب</td>
                             </tr>
@@ -97,11 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/9/14 10:50</td>
                                 <td class='pointer' onclick='jo.TseMsg(114711)'>بازگشايي نماد معاملاتي (وصندوقح)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/14 10:23</td>
-                                <td class='pointer' onclick='jo.TseMsg(114704)'>توقف نماد (پلاسك1) به علت افشاي اطلاعات با اهميت گروه ب</td>
                             </tr>
                         
                             </tbody></table>
@@ -11900,6 +11900,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/15 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(114730)'>توقف نماد (درهآور1) - اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/14 16:55</td>
                                 <td class='pointer' onclick='jo.TseMsg(114729)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -11932,11 +11937,6 @@
                             <tr>
                                 <td class='ltr'>00/9/14 11:43</td>
                                 <td class='pointer' onclick='jo.TseMsg(114715)'>تداوم تعليق نماد معاملاتي (ثنور1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/14 10:59</td>
-                                <td class='pointer' onclick='jo.TseMsg(114714)'>تداوم توقف نماد (بمپنا1) جهت رفع ابهام يا اصلاح اطلاعات</td>
                             </tr>
                         
                             </tbody> </table>
