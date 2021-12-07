@@ -12931,6 +12931,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/16 17:34</td>
+                                <td class='pointer' onclick='jo.TseMsg(114871)'>توقف نماد (ساروج1) به علت پذيرش در بازار دوم فرابورس به منظور انتقال نماد</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/16 17:12</td>
                                 <td class='pointer' onclick='jo.TseMsg(114870)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -12963,11 +12968,6 @@
                             <tr>
                                 <td class='ltr'>00/9/16 12:04</td>
                                 <td class='pointer' onclick='jo.TseMsg(114856)'>توقف نماد (وحكمت1) - اطلاعات با اهميت گروه ب</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/16 11:06</td>
-                                <td class='pointer' onclick='jo.TseMsg(114853)'>توقف نماد معاملاتي (ثتوسا1)</td>
                             </tr>
                         
                             </tbody> </table>
@@ -18348,15 +18348,6 @@
                                 <tbody>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=65820006714554872">اختيارخ ذوب-3000-14000917 (ضذوب901)</a></td>
-                                <td>328</td>
-                                <td><div class='pn'>6.84</div></td>
-                                <td>3</td>
-                                <td>92</td>
-                                <td><div class='ltr' title="30,200,000">30.200 M</div></td>
-                            </tr>
-                        
-                            <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=23353723695084639">اختيارخ ذوب-2500-14000917 (ضذوب900)</a></td>
                                 <td>930</td>
                                 <td><div class='mn'>(2.11)</div></td>
@@ -18366,12 +18357,21 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=54349808721036303">اختيارف ذوب-4500-14000917 (طذوب904)</a></td>
-                                <td>1,200</td>
-                                <td><div class='pn'>300</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=65820006714554872">اختيارخ ذوب-3000-14000917 (ضذوب901)</a></td>
+                                <td>328</td>
+                                <td><div class='pn'>6.84</div></td>
+                                <td>3</td>
+                                <td>92</td>
+                                <td><div class='ltr' title="30,200,000">30.200 M</div></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32276570027622360">اختيارخ فرابورس-19000-14001218 (ضفرابورس1200)</a></td>
+                                <td>2,500</td>
+                                <td><div class='mn'>(12.68)</div></td>
                                 <td>1</td>
-                                <td>4</td>
-                                <td><div class='ltr' title="4,800,000">4.800 M</div></td>
+                                <td>1</td>
+                                <td><div class='ltr' title="2,500,000">2.500 M</div></td>
                             </tr>
                         
                             <tr>
@@ -18384,12 +18384,12 @@
                             </tr>
                         
                             <tr>
-                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=32276570027622360">اختيارخ فرابورس-19000-14001218 (ضفرابورس1200)</a></td>
-                                <td>2,500</td>
-                                <td><div class='mn'>(12.68)</div></td>
+                                <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=54349808721036303">اختيارف ذوب-4500-14000917 (طذوب904)</a></td>
+                                <td>1,200</td>
+                                <td><div class='pn'>300</div></td>
                                 <td>1</td>
-                                <td>1</td>
-                                <td><div class='ltr' title="2,500,000">2.500 M</div></td>
+                                <td>4</td>
+                                <td><div class='ltr' title="4,800,000">4.800 M</div></td>
                             </tr>
                         
                             </tbody> </table>
