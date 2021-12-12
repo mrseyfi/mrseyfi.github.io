@@ -65,6 +65,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/21 15:32</td>
+                                <td class='pointer' onclick='jo.TseMsg(115116)'>اطلاعيه درخصوص عدم تاييد بخشي از معاملات(مبين)،(حكشتي)،(بفجر)</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/21 15:28</td>
                                 <td class='pointer' onclick='jo.TseMsg(115115)'>اطلاعيه درخصوص عدم تاييد بخشي از معاملات(پارس)،(خراسان)،(شپنا)،(كگل)</td>
                             </tr>
@@ -97,11 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/9/21 11:22</td>
                                 <td class='pointer' onclick='jo.TseMsg(115106)'>توقف نماد معاملاتي(وپست)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/21 11:15</td>
-                                <td class='pointer' onclick='jo.TseMsg(115105)'>بازگشايي نماد معاملاتي (حتايد)</td>
                             </tr>
                         
                             </tbody></table>
