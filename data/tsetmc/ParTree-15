@@ -65,6 +65,16 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/22 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115121)'>توقف نماد (مرقام1) به علت افشاي اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/22 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115119)'>توقف نماد (ثاخت1) به علت افشاي اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/21 15:32</td>
                                 <td class='pointer' onclick='jo.TseMsg(115116)'>اطلاعيه درخصوص عدم تاييد بخشي از معاملات(مبين)،(حكشتي)،(بفجر)</td>
                             </tr>
@@ -92,16 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/9/21 11:27</td>
                                 <td class='pointer' onclick='jo.TseMsg(115109)'>بازگشايي نماد معاملاتي (ما)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/21 11:26</td>
-                                <td class='pointer' onclick='jo.TseMsg(115108)'>بازگشايي نمادهاي معاملاتي(كالا)،(اكالا)،(نكالا)،(تكالا)	</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/21 11:22</td>
-                                <td class='pointer' onclick='jo.TseMsg(115106)'>توقف نماد معاملاتي(وپست)</td>
                             </tr>
                         
                             </tbody></table>
@@ -12333,6 +12333,16 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/22 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115122)'>توقف نماد (قطران1) - اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/22 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115120)'>توقف نماد (وگردش1) - اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/21 16:53</td>
                                 <td class='pointer' onclick='jo.TseMsg(115118)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -12360,16 +12370,6 @@
                             <tr>
                                 <td class='ltr'>00/9/21 11:00</td>
                                 <td class='pointer' onclick='jo.TseMsg(115104)'>تعليق نماد معاملاتي (شستان1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/21 10:49</td>
-                                <td class='pointer' onclick='jo.TseMsg(115102)'>سفارش گيري در پذيره نويسي سهام شركت بيمه زندگي كاريزما50% تاديه</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/21 10:43</td>
-                                <td class='pointer' onclick='jo.TseMsg(115101)'>عرضه عمده سهام غيرمديريتي در نماد معاملاتي (بزاگرس4)</td>
                             </tr>
                         
                             </tbody> </table>
