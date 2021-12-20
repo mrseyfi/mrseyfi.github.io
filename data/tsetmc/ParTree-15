@@ -35,23 +35,23 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار</td>
-                                <td></td>
+                                <td><div class='ltr' title="51,628,118,763,713,715">51,628,118.764 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/9/29 06:37:26</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -63,6 +63,16 @@
                     
                             <table class="table1">
                                 <tbody>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/29 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115381)'>توقف نماد معاملاتي (ركيشح1)</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/29 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115379)'>توقف نماد (ركيش1) به علت افشاي اطلاعات با اهميت گروه ب</td>
+                            </tr>
                         
                             <tr>
                                 <td class='ltr'>00/9/28 10:57</td>
@@ -92,16 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/9/28 10:39</td>
                                 <td class='pointer' onclick='jo.TseMsg(115365)'>توقف نمادهاي معاملاتي (قشكر)،(كسرام)،(دفرا)،(شبندر)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/28 09:57</td>
-                                <td class='pointer' onclick='jo.TseMsg(115356)'>وقفه معاملاتي نماد (داسوه1) به علت تغييرات بيش از 20 درصدي قيمت</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/28 09:35</td>
-                                <td class='pointer' onclick='jo.TseMsg(115347)'>توقف نماد (كحافظ1) به علت افشاي اطلاعات با اهميت گروه الف</td>
                             </tr>
                         
                             </tbody></table>
@@ -273,6 +273,62 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                            
+                                <tr>
+                                    <td>44-شيميايي</td>
+                                    <td><div class='ltr' title="12,488,517,081,466,000">12,488,517.081 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>27-فلزات اساسي</td>
+                                    <td><div class='ltr' title="10,316,657,399,082,660">10,316,657.399 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>13-كانه فلزي</td>
+                                    <td><div class='ltr' title="5,489,447,085,640,000">5,489,447.086 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>39-چند رشته اي ص</td>
+                                    <td><div class='ltr' title="4,432,340,896,980,000">4,432,340.897 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>56-سرمايه گذاريها</td>
+                                    <td><div class='ltr' title="3,234,434,740,060,786">3,234,434.740 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>23-فراورده نفتي</td>
+                                    <td><div class='ltr' title="3,006,507,046,458,740">3,006,507.046 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>57-بانكها</td>
+                                    <td><div class='ltr' title="2,795,070,294,581,072">2,795,070.295 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
                             
                                 </tbody> </table>
                             
@@ -672,9 +728,9 @@
                             <tr>
                                 <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=10191122735393627" title="شركت س استان خراسان جنوبي">وسخراج</a></td>
                                 <td>2,099</td>
-                                <td><div class='ltr' title="48,726,045">48.726 M</div></td>
-                                <td><div class='ltr' title="102,275,968,455">102.276 B</div></td>
-                                <td>291</td>
+                                <td><div class='ltr' title="48,458,025">48.458 M</div></td>
+                                <td><div class='ltr' title="101,713,394,475">101.713 B</div></td>
+                                <td>290</td>
                             </tr>
                         
                             <tr>
@@ -12174,27 +12230,27 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>اول و دوم</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="10,152,032,513,157,666">10,152,032.513 B</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>پایه</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="3,274,566,669,193,965">3,274,566.669 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/9/29 06:43:31</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -12255,6 +12311,16 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/9/29 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115380)'>تداوم تعليق نماد معاملاتي (دهدشت1)</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/9/29 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115378)'>توقف نماد (لكما1) - اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/9/28 16:42</td>
                                 <td class='pointer' onclick='jo.TseMsg(115377)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -12282,16 +12348,6 @@
                             <tr>
                                 <td class='ltr'>00/9/28 10:34</td>
                                 <td class='pointer' onclick='jo.TseMsg(115363)'>توقف نماد معاملاتي (فكمند1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/28 10:33</td>
-                                <td class='pointer' onclick='jo.TseMsg(115362)'>پذيره‌ نويسي سلب حق تقدم در نماد معاملاتي (درهآورح1)	</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/28 10:33</td>
-                                <td class='pointer' onclick='jo.TseMsg(115361)'>بازگشايي نمادهاي معاملاتي (وشهر1) و (وحكمت1)</td>
                             </tr>
                         
                             </tbody> </table>
