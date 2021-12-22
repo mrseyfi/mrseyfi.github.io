@@ -65,6 +65,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/10/1 08:11</td>
+                                <td class='pointer' onclick='jo.TseMsg(115570)'>معاملات بورس انرژي ايران - بازار مصرف‌كنندگان بزرگ برق و عمده‌فروشي</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/10/1 08:00</td>
                                 <td class='pointer' onclick='jo.TseMsg(115562)'>توقف نماد (كماسه1) به علت افشاي اطلاعات با اهميت گروه ب</td>
                             </tr>
@@ -97,11 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/9/30 10:25</td>
                                 <td class='pointer' onclick='jo.TseMsg(115546)'>توقف نمادهاي معاملاتي (ثنوسا)،(بفجر)،(بفجرح)،(دپارسح)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/9/30 10:13</td>
-                                <td class='pointer' onclick='jo.TseMsg(115542)'>بازگشايي نماد معاملاتي (غنوش) پس از رفع تعليق</td>
                             </tr>
                         
                             </tbody></table>
