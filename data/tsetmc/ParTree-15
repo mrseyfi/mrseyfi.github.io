@@ -1,4 +1,4 @@
-<!doctype html><html><head><title>.:TSETMC:. :: شرکت مدیریت فناوری بورس تهران</title><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63076930-1"></script><script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-63076930-1');</script><script>var LongRunnigPagesSite='http://cdn8.tsetmc.com';function ens(ty,sv){var lv=localStorage.getItem("v_"+ty);var t;if (lv==null || lv!=sv){var oX=new XMLHttpRequest();oX.open('GET', 'tsev2/res/loader.aspx?t='+ty+'&_'+sv,false);oX.send(null);t=oX.responseText;if(t[t.length-1]!=';') return;localStorage.setItem("v_"+ty,sv);localStorage.setItem("t_"+ty,t)}else{t=localStorage.getItem("t_"+ty)}if (ty=='s'){document.write("<style>"+t+"</style>")}else{var h=document.getElementsByTagName('HEAD').item(0);var s=document.createElement("script");s.defer=true;s.text=t;h.appendChild(s)}}var version='513';ens('j',version); ens('s',version);  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })</script></head><body><div style="display:none">PSB is being developed by Pooya Paridel.</div><div id="FastView" class="slideTop"></div><div id="TopBar"><div id="company"><div id="company_logo"></div><div id="company_text">شركت مديريت فناوري بورس تهران<br/> Tehran Securities Exchange Technology Management Co</div></div><div id="menu_btns"></div><script>ShowMenuIcon(1)</script></div><div class="MainContainer"><form method="post" action="./Loader.aspx?ParTree=15" id="form1">
+<!doctype html><html><head><title>.:TSETMC:. :: شرکت مدیریت فناوری بورس تهران</title><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63076930-1"></script><script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-63076930-1');</script><script>var LongRunnigPagesSite='http://cdn7.tsetmc.com';function ens(ty,sv){var lv=localStorage.getItem("v_"+ty);var t;if (lv==null || lv!=sv){var oX=new XMLHttpRequest();oX.open('GET', 'tsev2/res/loader.aspx?t='+ty+'&_'+sv,false);oX.send(null);t=oX.responseText;if(t[t.length-1]!=';') return;localStorage.setItem("v_"+ty,sv);localStorage.setItem("t_"+ty,t)}else{t=localStorage.getItem("t_"+ty)}if (ty=='s'){document.write("<style>"+t+"</style>")}else{var h=document.getElementsByTagName('HEAD').item(0);var s=document.createElement("script");s.defer=true;s.text=t;h.appendChild(s)}}var version='513';ens('j',version); ens('s',version);  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })</script></head><body><div style="display:none">PSB is being developed by Pooya Paridel.</div><div id="FastView" class="slideTop"></div><div id="TopBar"><div id="company"><div id="company_logo"></div><div id="company_text">شركت مديريت فناوري بورس تهران<br/> Tehran Securities Exchange Technology Management Co</div></div><div id="menu_btns"></div><script>ShowMenuIcon(1)</script></div><div class="MainContainer"><form method="post" action="./Loader.aspx?ParTree=15" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
 </div>
@@ -35,23 +35,23 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار</td>
-                                <td></td>
+                                <td><div class='ltr' title="55,378,650,328,722,961">55,378,650.329 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/10/5 06:37:28</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -63,6 +63,16 @@
                     
                             <table class="table1">
                                 <tbody>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/5 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115661)'>توقف نماد (پارس1) به علت افشاي اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/5 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115659)'>وقفه معاملاتي نماد (غشصفا1) به علت تغييرات بيش از 20 درصدي قيمت</td>
+                            </tr>
                         
                             <tr>
                                 <td class='ltr'>00/10/4 15:24</td>
@@ -92,16 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/10/4 10:41</td>
                                 <td class='pointer' onclick='jo.TseMsg(115641)'>بازگشايي نماد معاملاتي (غبشهر)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/4 09:46</td>
-                                <td class='pointer' onclick='jo.TseMsg(115632)'>وقفه معاملاتي نماد (تكشا1) به علت تغييرات بيش از 20 درصدي قيمت</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/4 09:06</td>
-                                <td class='pointer' onclick='jo.TseMsg(115626)'>بازگشايي نمادهاي معاملاتي(وليز)،(پترول)</td>
                             </tr>
                         
                             </tbody></table>
@@ -273,6 +273,62 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                            
+                                <tr>
+                                    <td>44-شيميايي</td>
+                                    <td><div class='ltr' title="13,521,044,265,518,000">13,521,044.266 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>27-فلزات اساسي</td>
+                                    <td><div class='ltr' title="11,113,528,094,951,770">11,113,528.095 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>13-كانه فلزي</td>
+                                    <td><div class='ltr' title="5,876,786,059,240,000">5,876,786.059 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>39-چند رشته اي ص</td>
+                                    <td><div class='ltr' title="4,788,876,888,000,000">4,788,876.888 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>56-سرمايه گذاريها</td>
+                                    <td><div class='ltr' title="3,314,443,497,739,528">3,314,443.498 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>23-فراورده نفتي</td>
+                                    <td><div class='ltr' title="3,311,625,603,028,930">3,311,625.603 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>57-بانكها</td>
+                                    <td><div class='ltr' title="3,113,830,514,901,592">3,113,830.515 B</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
                             
                                 </tbody> </table>
                             
@@ -12216,27 +12272,27 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>اول و دوم</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="10,354,160,157,224,204">10,354,160.157 B</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>پایه</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="3,307,818,176,006,470">3,307,818.176 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/10/5 06:42:33</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -12297,6 +12353,16 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/10/5 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115660)'>توقف نماد (سمگا1) - اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/5 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(115658)'>توقف نماد (فروسيل1) - اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/10/4 17:57</td>
                                 <td class='pointer' onclick='jo.TseMsg(115657)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -12324,16 +12390,6 @@
                             <tr>
                                 <td class='ltr'>00/10/4 11:31</td>
                                 <td class='pointer' onclick='jo.TseMsg(115649)'>تغيير دامنه نوسان روزانه قيمت در نمادهاي (وآيند1)،(وزمين1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/4 11:15</td>
-                                <td class='pointer' onclick='jo.TseMsg(115648)'>آغاز بازارگرداني در نمادهاي معاملاتي (ثزاگرس1)،(وثخوز1)،(وثنو1)و(ثتوسا1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/4 10:57</td>
-                                <td class='pointer' onclick='jo.TseMsg(115645)'>توقف نماد (پلوله1) - اطلاعات با اهميت گروه الف</td>
                             </tr>
                         
                             </tbody> </table>
@@ -16825,11 +16881,11 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=56429431740318486">شلرد - كود شيميايي اوره لردگان</a></td>
-                                    <td>11,397</td>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22956708386610464">خودكفا - اقتصادي و خودكفايي آزادگان</a></td>
+                                    <td>7,168</td>
                                     <td>0</td>
-                                    <td>11,269</td>
-                                    <td><div class='mn'>(1.12)</div></td>
+                                    <td>7,063</td>
+                                    <td><div class='mn'>(1.46)</div></td>
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
@@ -16838,11 +16894,11 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=22956708386610464">خودكفا - اقتصادي و خودكفايي آزادگان</a></td>
-                                    <td>7,168</td>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=56429431740318486">شلرد - كود شيميايي اوره لردگان</a></td>
+                                    <td>11,397</td>
                                     <td>0</td>
-                                    <td>7,063</td>
-                                    <td><div class='mn'>(1.46)</div></td>
+                                    <td>11,269</td>
+                                    <td><div class='mn'>(1.12)</div></td>
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
@@ -16915,19 +16971,6 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=10055255678920880">وملت - سرمايه گذاري ملت</a></td>
-                                    <td>2,242</td>
-                                    <td>0</td>
-                                    <td>2,204</td>
-                                    <td><div class='mn'>(1.69)</div></td>
-                                    <td>0</td>
-                                    <td>0</td>
-                                    <td>0</td>
-                                    <td>0</td>
-                                    <td>0</td>
-                                </tr>
-                            
-                                <tr>
                                     <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28251956446987982">شمواد - توليد مواداوليه الياف مصنوعي</a></td>
                                     <td>44,124</td>
                                     <td>0</td>
@@ -16941,11 +16984,24 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=28230238564334914">قجام - فرآوردههاي غذايي وقندتربت‌جام‌</a></td>
-                                    <td>6,207</td>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=9761381741308262">وشمال - س. چشم انداز توسعه شمال</a></td>
+                                    <td>74,773</td>
                                     <td>0</td>
-                                    <td>6,086</td>
-                                    <td><div class='mn'>(1.95)</div></td>
+                                    <td>73,300</td>
+                                    <td><div class='mn'>(1.97)</div></td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=31049085025064185">شتهران - داروسازي تهران شيمي</a></td>
+                                    <td>7,194</td>
+                                    <td>0</td>
+                                    <td>7,480</td>
+                                    <td><div class='pn'>3.98</div></td>
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
@@ -16967,11 +17023,11 @@
                                 </tr>
                             
                                 <tr>
-                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=19954896371640204">وزمين - بانك ايران زمين</a></td>
-                                    <td>8,767</td>
+                                    <td><a target="_blank" href="Loader.aspx?ParTree=151311&i=10055255678920880">وملت - سرمايه گذاري ملت</a></td>
+                                    <td>2,242</td>
                                     <td>0</td>
-                                    <td>8,610</td>
-                                    <td><div class='mn'>(1.79)</div></td>
+                                    <td>2,204</td>
+                                    <td><div class='mn'>(1.69)</div></td>
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
