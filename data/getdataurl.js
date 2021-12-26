@@ -1,5 +1,4 @@
-
- <div id="svg">
+<div id="svg">
 
   </div>
   <script>
