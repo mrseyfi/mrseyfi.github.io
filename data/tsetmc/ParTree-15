@@ -80,11 +80,6 @@
                             </tr>
                         
                             <tr>
-                                <td class='ltr'>00/10/5 08:00</td>
-                                <td class='pointer' onclick='jo.TseMsg(115659)'>وقفه معاملاتي نماد (غشصفا1) به علت تغييرات بيش از 20 درصدي قيمت</td>
-                            </tr>
-                        
-                            <tr>
                                 <td class='ltr'>00/10/4 15:24</td>
                                 <td class='pointer' onclick='jo.TseMsg(115656)'>اطلاعيه درخصوص عدم تاييد بخشي از معاملات نماد معاملاتي(خمحور)</td>
                             </tr>
@@ -102,6 +97,11 @@
                             <tr>
                                 <td class='ltr'>00/10/4 11:06</td>
                                 <td class='pointer' onclick='jo.TseMsg(115646)'>توقف نمادهاي معاملاتي(شپديس)،(وبوعلي)،(سيمرغ)،(مبين)،(خاهنح)</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/4 10:42</td>
+                                <td class='pointer' onclick='jo.TseMsg(115642)'>بازگشايي نماد معاملاتي (فسازانح)</td>
                             </tr>
                         
                             </tbody></table>
