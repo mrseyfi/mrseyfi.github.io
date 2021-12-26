@@ -1,9 +1,22 @@
-  <script>
-  async function file_get_contents(uri, callback) {
-    let res = await fetch(uri),
-        ret = await res.text(); 
-    return callback ? callback(ret) : ret; // a Promise() actually.
-}
 
-file_get_contents("https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558", console.log);
+ <div id="svg">
+
+  </div>
+  <script>
+
+    function file_get_contents(uri, callback) {
+         fetch(uri).then(res => res.text()).then(text => 
+        {
+
+            var xmlSvg =text;
+            console.log(xmlSvg );
+            document.getElementById('svg').innerHTML = xmlSvg;
+        })
+    }
+
+    
+    var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
+
+    file_get_contents(uri);
+
 </script>
