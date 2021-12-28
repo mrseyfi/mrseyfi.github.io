@@ -53,7 +53,7 @@ test3
 
     function file_get_contents(uri, callback) {
 		postData(uri)
-		  .then(response => {
+		  .then(res => res.text()).then(data => {
             var xmlSvg =data;
             console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;
