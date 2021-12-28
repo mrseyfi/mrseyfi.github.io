@@ -1,7 +1,7 @@
 <html>
 <body>
 <div id="svg">
-test1
+test2
   </div>
   <script>
 
@@ -28,7 +28,6 @@ test1
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
-			text = "ooo" + pako.gzip(text, { to: 'string' });
             var xmlSvg =text;
             console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;

@@ -28,7 +28,6 @@ test2
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
-			text = "ooo" + pako.gzip(text, { to: 'string' });
             var xmlSvg =text;
             console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;
@@ -37,7 +36,7 @@ test2
     //var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
 	
 	var uri = 'http://www.tsetmc.com/tsev2/data/instinfofast.aspx?i=2400322364771558&c=34'
-	var uri = 'https://api.webgold.ir/data/?u='+ par_u +'&i=' + par_i;
+	//var uri = 'https://api.webgold.ir/data/?u='+ par_u +'&i=' + par_i;
 	file_get_contents(uri);
 
 </script>
