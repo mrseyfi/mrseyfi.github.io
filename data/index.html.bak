@@ -33,7 +33,7 @@ test3
     }
 	
 	function file_get_contents(uri, callback) {
-		fetch(uri)
+		fetch('http://example.com/movies.json')
 		.then(response => response.json())
 		.then(data => 
 		{
