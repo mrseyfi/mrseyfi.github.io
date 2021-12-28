@@ -1,6 +1,5 @@
 <html>
 <body>
-test
 <div id="svg">
 
   </div>
@@ -20,6 +19,7 @@ test
 	})();
 	
 	var par_i = urlParams["i"];
+	var par_u = urlParams["u"];
 
 
     function file_get_contents(uri, callback) {
@@ -32,7 +32,7 @@ test
     }
     //var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
 
-	var uri = 'https://api.webgold.ir/data/?u=instinfofast&i=' + par_i;
+	var uri = 'https://api.webgold.ir/data/?u='+ par_u +'&i=' + par_i;
 	file_get_contents(uri);
 
 </script>
