@@ -29,8 +29,8 @@ test5
 		mode: 'cors', // no-cors, *cors, same-origin
 		cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
 		credentials: 'same-origin', // include, *same-origin, omit
-		UserAgent:	'Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0',
-		Host:	'www.tsetmc.com',
+
+		vary:	'*',
 		//headers: {
 		//  'Content-Type': 'application/json'
 		  // 'Content-Type': 'application/x-www-form-urlencoded',

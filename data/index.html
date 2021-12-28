@@ -30,7 +30,7 @@ test5
 		cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
 		credentials: 'same-origin', // include, *same-origin, omit
 
-		Host:	'www.tsetmc.com',
+		vary:	'*',
 		//headers: {
 		//  'Content-Type': 'application/json'
 		  // 'Content-Type': 'application/x-www-form-urlencoded',
@@ -55,7 +55,7 @@ test5
 
     var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
 	
-	var uri = 'http://www.tsetmc.com/tsev2/data/instinfofast.aspx?i=2400322364771558&c=34'
+	//var uri = 'http://www.tsetmc.com/tsev2/data/instinfofast.aspx?i=2400322364771558&c=34'
 	//var uri = 'https://api.webgold.ir/data/?u='+ par_u +'&i=' + par_i;
 	//var uri = 'http://tsetmc.ir/tsev2/res/loader.aspx?t=s&_513';
 	file_get_contents(uri);
