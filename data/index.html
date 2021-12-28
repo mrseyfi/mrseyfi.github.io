@@ -23,7 +23,7 @@ test3
 	var par_u = urlParams["u"];
 
 
-    function file_get_contents2(uri, callback) {
+    function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
             var xmlSvg =text;
@@ -51,11 +51,11 @@ test3
 	  return response.json(); // parses JSON response into native JavaScript objects
 	}
 
-    function file_get_contents(uri, callback) {
+    function file_get_contents2(uri, callback) {
 		postData(uri)
 		  .then(data => {
             var xmlSvg =data;
-            console.log(xmlSvg.text() );
+            console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;
 		  });
     }
