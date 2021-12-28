@@ -1,0 +1,39 @@
+<html>
+<body>
+
+<div id="svg">
+
+  </div>
+  <script>
+
+	var urlParams;
+	(window.onpopstate = function () {
+		var match,
+			pl     = /\+/g,  // Regex for replacing addition symbol with a space
+			search = /([^&=]+)=?([^&]*)/g,
+			decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+			query  = window.location.search.substring(1);
+	  
+		urlParams = {};
+		while (match = search.exec(query))
+		   urlParams[decode(match[1])] = decode(match[2]);
+	})();
+	
+	var uri = urlParams["uri"];
+	
+    function file_get_contents(uri, callback) {
+         fetch(uri).then(res => res.text()).then(text => 
+        {
+            var xmlSvg =text;
+            console.log(xmlSvg );
+            document.getElementById('svg').innerHTML = xmlSvg;
+        })
+    }
+    
+    //var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
+    file_get_contents(uri);
+
+</script>
+
+</body>
+</html>
