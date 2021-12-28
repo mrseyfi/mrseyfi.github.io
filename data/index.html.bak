@@ -5,7 +5,7 @@ test
 
   </div>
   <script>
-/*
+
 	var urlParams;
 	(window.onpopstate = function () {
 		var match,
@@ -21,7 +21,7 @@ test
 	
 	var uri = '';
 	uri = urlParams["uri"];
-*/	
+
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
