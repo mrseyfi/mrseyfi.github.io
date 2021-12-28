@@ -5,17 +5,6 @@ test3
   </div>
   <script>
 
-	$origin = $_SERVER['HTTP_ORIGIN'];
-	$allowed_domains = [
-		'http://tsetmc.ir',
-		'https://api.webgold.ir',
-		'http://www.mysite2.com',
-	];
-
-	if (in_array($origin, $allowed_domains)) {
-		header('Access-Control-Allow-Origin: ' . $origin);
-	}
-
 	      
 	var urlParams;
 	(window.onpopstate = function () {
@@ -34,7 +23,7 @@ test3
 	var par_u = urlParams["u"];
 
 
-    function file_get_contents(uri, callback) {
+    function file_get_contents2(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
             var xmlSvg =text;
@@ -42,6 +31,20 @@ test3
             document.getElementById('svg').innerHTML = xmlSvg;
         })
     }
+	
+	function file_get_contents(uri, callback) {
+		fetch(uri)
+		.then(response => response.json())
+		.then(data => 
+		{
+		var xmlSvg =data;
+		console.log(xmlSvg );
+		document.getElementById('svg').innerHTML = xmlSvg;
+		}
+		);
+    }
+
+
     //var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
 	
 	//var uri = 'http://www.tsetmc.com/tsev2/data/instinfofast.aspx?i=2400322364771558&c=34'
