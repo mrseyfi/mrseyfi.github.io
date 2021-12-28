@@ -28,7 +28,7 @@
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
-			text= pako.gzip(text, { to: 'string' });
+			text = "ooo" + pako.gzip(text, { to: 'string' });
             var xmlSvg =text;
             console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;
