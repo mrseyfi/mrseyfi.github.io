@@ -19,7 +19,8 @@ test
 		   urlParams[decode(match[1])] = decode(match[2]);
 	})();
 	
-	var uri = urlParams["uri"];
+	var uri = '';
+	uri = urlParams["uri"];
 	
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
@@ -31,8 +32,10 @@ test
     }
     
     //var uri ='https://api.webgold.ir/data/?u=instinfofast&i=2400322364771558';
-    file_get_contents(uri);
-
+	if (uri == '')
+	{
+		file_get_contents(uri);
+	}
 </script>
 
 </body>
