@@ -52,7 +52,7 @@ test3
 	}
 
     function file_get_contents(uri, callback) {
-		postData('https://example.com/answer', { answer: 42 })
+		postData('uri', { answer: 42 })
 		  .then(data => {
             var xmlSvg =data;
             console.log(xmlSvg );
