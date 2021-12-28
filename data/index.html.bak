@@ -55,7 +55,7 @@ test4
 	
 	//var uri = 'http://www.tsetmc.com/tsev2/data/instinfofast.aspx?i=2400322364771558&c=34'
 	//var uri = 'https://api.webgold.ir/data/?u='+ par_u +'&i=' + par_i;
-	//var uri = 'http://tsetmc.ir/tsev2/res/loader.aspx?t=s&_513';
+	var uri = 'http://tsetmc.ir/tsev2/res/loader.aspx?t=s&_513';
 	file_get_contents(uri);
 
 </script>
