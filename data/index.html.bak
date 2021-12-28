@@ -5,7 +5,16 @@ test3
   </div>
   <script>
 
-	header('Access-Control-Allow-Origin: *');
+	$origin = $_SERVER['HTTP_ORIGIN'];
+	$allowed_domains = [
+		'http://tsetmc.ir',
+		'https://api.webgold.ir',
+		'http://www.mysite2.com',
+	];
+
+	if (in_array($origin, $allowed_domains)) {
+		header('Access-Control-Allow-Origin: ' . $origin);
+	}
 
 	      
 	var urlParams;
