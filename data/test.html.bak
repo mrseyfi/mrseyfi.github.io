@@ -24,7 +24,6 @@
     function file_get_contents(uri, callback) {
          fetch(uri).then(res => res.text()).then(text => 
         {
-
             var xmlSvg =text;
             console.log(xmlSvg );
             document.getElementById('svg').innerHTML = xmlSvg;
