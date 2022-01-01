@@ -65,6 +65,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/10/11 08:11</td>
+                                <td class='pointer' onclick='jo.TseMsg(115901)'>معاملات بورس انرژي ايران - بازار مصرف‌كنندگان بزرگ برق و عمده‌فروشي</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/10/11 08:00</td>
                                 <td class='pointer' onclick='jo.TseMsg(115896)'>توقف نماد (ثنوسا1) به علت افشاي اطلاعات با اهميت گروه ب</td>
                             </tr>
@@ -97,11 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/10/8 10:59</td>
                                 <td class='pointer' onclick='jo.TseMsg(115882)'>توقف نمادهاي معاملاتي(وتوصا)،(دسبحان)،(شستا)،(بركتح)،(ركيشح)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/8 10:56</td>
-                                <td class='pointer' onclick='jo.TseMsg(115881)'>بازگشايي نماد معاملاتي (شپديس)</td>
                             </tr>
                         
                             </tbody></table>
