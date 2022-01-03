@@ -35,23 +35,23 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار</td>
-                                <td></td>
+                                <td><div class='ltr' title="55,271,506,718,288,597">55,271,506.718 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/10/13 06:37:28</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -63,6 +63,21 @@
                     
                             <table class="table1">
                                 <tbody>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/13 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(116048)'>توقف نماد (ثاخت1) به علت افشاي اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/13 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(116047)'>توقف نماد (وسينا1) به علت افشاي اطلاعات با اهميت گروه الف</td>
+                            </tr>
+                        
+                            <tr>
+                                <td class='ltr'>00/10/13 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(116045)'>توقف نماد (فارس1) به علت افشاي اطلاعات با اهميت گروه ب</td>
+                            </tr>
                         
                             <tr>
                                 <td class='ltr'>00/10/13 07:59</td>
@@ -87,21 +102,6 @@
                             <tr>
                                 <td class='ltr'>00/10/12 13:11</td>
                                 <td class='pointer' onclick='jo.TseMsg(116034)'>توقف نماد (غچين1) به علت افشاي اطلاعات با اهميت گروه ب</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/12 11:32</td>
-                                <td class='pointer' onclick='jo.TseMsg(116032)'>توقف نماد (پارسان1) به علت افشاي اطلاعات با اهميت گروه ب</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/12 10:29</td>
-                                <td class='pointer' onclick='jo.TseMsg(116027)'>توقف نمادهاي معاملاتي (ثشرق)،(پترول)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/12 09:53</td>
-                                <td class='pointer' onclick='jo.TseMsg(116022)'>توقف نماد (فارس1) به علت افشاي اطلاعات با اهميت گروه الف</td>
                             </tr>
                         
                             </tbody></table>
@@ -12111,27 +12111,27 @@
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>اول و دوم</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="10,268,818,773,614,267">10,268,818.774 B</div></td>
                             </tr>
                             <tr>
                                 <td>ارزش بازار <span style='font-size: 10px'>پایه</span></td>
-                                <td></td>
+                                <td><div class='ltr' title="3,259,646,977,749,048">3,259,646.978 B</div></td>
                             </tr>
                             <tr>
                                 <td>اطلاعات قیمت</td>
-                                <td></td>
+                                <td>00/10/13 06:41:00</td>
                             </tr>
                             <tr>
                                 <td>تعداد معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>ارزش معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                             <tr>
                                 <td>حجم معاملات</td>
-                                <td></td>
+                                <td>0</td>
                             </tr>
                         </tbody>
                     </table>
@@ -12192,6 +12192,11 @@
                                 <tbody>
                         
                             <tr>
+                                <td class='ltr'>00/10/13 08:00</td>
+                                <td class='pointer' onclick='jo.TseMsg(116046)'>توقف نماد (كرمان1) - اطلاعات با اهميت گروه ب</td>
+                            </tr>
+                        
+                            <tr>
                                 <td class='ltr'>00/10/12 17:18</td>
                                 <td class='pointer' onclick='jo.TseMsg(116043)'>عدم تاييد معاملات در برخي نمادهاي معاملاتي</td>
                             </tr>
@@ -12224,11 +12229,6 @@
                             <tr>
                                 <td class='ltr'>00/10/12 11:16</td>
                                 <td class='pointer' onclick='jo.TseMsg(116030)'>توقف نماد معاملاتي (شليا1)</td>
-                            </tr>
-                        
-                            <tr>
-                                <td class='ltr'>00/10/12 11:08</td>
-                                <td class='pointer' onclick='jo.TseMsg(116029)'>بازگشايي نماد معاملاتي (ثباغ1)</td>
                             </tr>
                         
                             </tbody> </table>
